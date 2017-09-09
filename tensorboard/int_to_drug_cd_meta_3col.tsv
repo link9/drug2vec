@@ -1,0 +1,3269 @@
+DRUG	FORMULARY_DRUG_CD_INT	FORMULARY_DRUG_CD
+Arimidex	0	*NF* ANAS1
+0.45 % Sodium Chloride	1	0.45NS3000I
+1/2 NS	2	1/2NS250I
+1/4 NS	3	1/4NS100
+1/4 NS	4	1/4NS1000
+Bag	5	5000MLBAG
+Fluorouracil	6	5FU500I
+Amino Acids 5%-Dextrose 15%	7	AA5D151000I
+Abacavir Oral Solution	8	ABAC20S
+Abacavir Sulfate	9	ABAC300
+*NF* Abatacept	10	ABAT250I
+Acamprosate	11	ACAM333
+Acarbose	12	ACAR50
+Papain-Urea Spray	13	ACCUSPAY
+Citrate Dextrose 3% (ACD-A) CRRT	14	ACD3/1000I
+ACD-A 3% Flush	15	ACDA2.5I
+ACD-A for CRRT	16	ACDA500
+AcetaZOLamide	17	ACE250
+AcetaZOLamide	18	ACE500
+AcetaZOLamide Sodium	19	ACE500I
+Acebutolol HCl	20	ACEB200
+Acetic Acid 0.125% Irrig. Soln	21	ACET.125T
+Acetic Acid 0.04% Soln	22	ACET0.04IR
+Acetaminophen IV	23	ACET1000I
+Acetaminophen IV	24	ACET1000PB
+NEO*PO*Acetaminophen Drops	25	ACET100D
+Acetaminophen (Liquid)	26	ACET100L
+Acetaminophen (Childrens)	27	ACET120R
+Acetazolamide	28	ACET125
+Acetylcysteine 20%	29	ACET20/4I
+Acetic Acid 0.25% Irrig. Soln	30	ACET25T
+Acetaminophen	31	ACET325
+NEO*PR*Acetaminophen	32	ACET40
+Acetaminophen	33	ACET650L
+Acetaminophen	34	ACET650R
+Acetylcysteine (IV)	35	ACET6I
+Acetylcysteine (IV)	36	ACET800I
+Acetylcysteine 20%	37	ACETNEB
+Soln	38	ACETSOLN
+NEO*PR*Acetaminophen	39	ACETSP
+Corticotropin Gel	40	ACGEL80I
+Soriatane CK	41	ACI25
+NEO*IM*Haemophilus B  Conj Vac	42	ACTHIBNEO
+Acyclovir	43	ACY500I
+NEO*IV*Acyclovir	44	ACY500N
+Acyclovir Ointment 5%	45	ACY5O
+Acyclovir Sodium	46	ACYC1000I
+Acyclovir	47	ACYC200
+Acyclovir	48	ACYC200L
+Acyclovir	49	ACYC400
+Acyclovir	50	ACYC40L
+Acyclovir	51	ACYC800
+acyclovir 400 mg or placebo	52	ACYCIND
+Tetanus-DiphTox-Acellular Pertuss (Adacel)	53	ADACEL
+Nifedipine CR	54	ADAL30
+Humira	55	ADAL40I
+NIFEdipine CR	56	ADAL60
+NIFEdipine CR	57	ADAL90
+Adderall XR	58	ADDE20XR
+Adderall	59	ADDE5
+Adderall	60	ADDE5XR
+Adefovir	61	ADEF10
+Adenosine	62	ADEN6I
+Adenosine	63	ADEN90I
+Fluticasone-Salmeterol (100/50)	64	ADVA100/50H
+Fluticasone-Salmeterol Diskus (250/50) 	65	ADVA250IH
+Advair Diskus	66	ADVA500/50
+Oxymetazoline HCl	67	AFRIN3ML
+Dipyridamole-Aspirin	68	AGGRCAP
+Albendazole	69	ALBE200
+Alternagel-Benadryl-Lidocaine Visc.	70	ALBELI120
+Albumin 5% (25 g)	71	ALBU%500
+Albuterol	72	ALBU17H
+Albuterol	73	ALBU2
+Albumin 5% (2.5 g)	74	ALBU2.5I
+Albumin 25% (12.5g / 50mL)	75	ALBU25
+Albumin, Human	76	ALBU25100I
+Albumin	77	ALBU25IVPB
+Albuterol Neb Soln	78	ALBU3H
+Albuterol Sulfate (Extended Release)	79	ALBU4R
+Albumin 5% (12.5g / 250mL)	80	ALBU5250
+Albumin 5% (25g / 500mL)	81	ALBU5500
+Albumin 5%	82	ALBU5500NF
+Albuterol 0.083% Neb Soln	83	ALBU5H
+Alcohol 10%	84	ALCO10I
+Aldesleukin	85	ALDE22I
+Alemtuzumab	86	ALEM10I
+Alemtuzumab	87	ALEM30I
+Alemtuzumab	88	ALEM30SYR
+Alendronate Sodium	89	ALEN5
+Alendronate Sodium	90	ALEN70
+Aliskiren	91	ALIS150
+Allopurinol	92	ALLO100
+Allopurinol	93	ALLO20S
+Allopurinol	94	ALLO300
+*NF* Allopurinol Sodium	95	ALLO500I
+Brimonidine Tartrate 0.15% Ophth.	96	ALPH0.15O
+Alprazolam	97	ALPR1
+Alprazolam	98	ALPR25
+Alprazolam	99	ALPR5
+Alprostadil	100	ALPR500I
+Alprostadil	101	ALPRNEO
+Alteplase (Catheter Clearance)	102	ALTE1/2I
+Alteplase (Catheter Clearance)	103	ALTE1/5I
+Alteplase	104	ALTE100I
+Alteplase 1mg/1mL ( Clearance ie. Temp TLCL )	105	ALTE1I
+Alteplase	106	ALTE20I
+Alteplase (Catheter Clearance)	107	ALTE2I
+Alteplase	108	ALTE2IV
+Alteplase	109	ALTE50I
+Aluminum Hydroxide Suspension	110	ALUM355L
+Alum Potassium	111	ALUM454
+Aluminum Hydroxide Suspension	112	ALUMI30L
+Amantadine	113	AMAN100
+Amantadine	114	AMAN100L
+Amantadine Syrup	115	AMANT50MG
+Zolpidem Tartrate	116	AMBI5
+Ambisome	117	AMBI50I
+Aminocaproic Acid	118	AMIC250L
+Aminocaproic Acid	119	AMIC5L
+Amiodarone	120	AMID100HT
+Amiodarone	121	AMID200
+Amikacin	122	AMIK500
+Amikacin Inhalation	123	AMIKINH
+Amiloride HCl	124	AMIL5
+Aminophylline	125	AMIN100
+Amino Acids 3.5%	126	AMIN35
+Aminocaproic Acid	127	AMIN5
+Aminocaproic Acid	128	AMIN500
+Aminocaproic Acid	129	AMIN5L
+Amiodarone	130	AMIO150I
+Amiodarone	131	AMIO40L
+Amitriptyline	132	AMIT10
+Amitriptyline HCl	133	AMIT100
+Amitriptyline	134	AMIT25
+Amitriptyline	135	AMIT50
+Amlodipine	136	AMLO25
+Amlodipine	137	AMLO5
+Amoxicillin	138	AMOX1000L
+AMOXicillin Oral Susp.	139	AMOX125L
+Amoxicillin	140	AMOX250
+Amoxicillin Oral Susp.	141	AMOX250L
+Amoxapine	142	AMOX50
+Amoxicillin	143	AMOX500
+Amoxicillin	144	AMOX500L
+Amoxicillin	145	AMOX875L
+AMP	146	AMP
+Ampicillin Sodium	147	AMP1I
+Ampicillin Sodium	148	AMP2I
+Ampicillin Sodium	149	AMP500I
+Amphotericin B	150	AMP50I
+Aminophylline	151	AMPH200
+Aminophylline	152	AMPH250I
+Aminophylline	153	AMPH500I
+Ampicillin	154	AMPI250
+Ampicillin	155	AMPI250L
+Ampicillin	156	AMPI500
+Ampicillin	157	AMPI500L
+Ampicillin Desensitization	158	AMPIDESEN
+Amphotericin B Oral Suspension	159	AMPOBORAL
+Amprenavir	160	AMPR150
+Send 500mg Vial	161	AMPVL
+Inamrinone Lactate	162	AMRI100I
+Anagrelide	163	ANAG500
+anakinra	164	ANAK100I
+Analgesic Balm	165	ANAL15C
+Anamorelin HCl	166	ANAMSTUDY
+Arimidex	167	ANAS1
+Hydrocortisone Acetate Suppository	168	ANHC25R
+Anidulafungin	169	ANID100I
+Antihemophilic Factor	170	ANTI250I
+Antihemophilic Factor	171	ANTI500I
+Tucks Hemorrhoidal Oint 1%	172	ANUS1O
+Hydrocortisone (Rectal) 2.5% Cream	173	ANUSHC
+Hydrocortisone Acetate Ointment 1%	174	ANUSHCOINT
+Anusol Suppository	175	ANUSOL
+Acetaminophen	176	APAP500
+Acetaminophen (Childrens)	177	APAP80R
+Apraclonidine 0.5%	178	APRA5OS
+Aprepitant	179	APRE125
+Aprepitant	180	APRE80
+Aprotinin (Bovine)	181	APRO100I
+Aprotinin (Bovine)	182	APRO200I
+Aquaphor Ointment	183	AQUA400O
+Argatroban	184	ARGA250I
+*NF* Arginine HCl	185	ARGI10I
+Aripiprazole	186	ARIP10
+Aripiprazole	187	ARIP15
+Aripiprazole	188	ARIP1L
+Aripiprazole	189	ARIP2
+Aripiprazole	190	ARIP25HT
+Aripiprazole	191	ARIP5
+Aripiprazole	192	ARIP9.75I
+Arsenic Trioxide *NF*	193	ARSE10I
+Artificial Tear Ointment	194	ARTI3.5O
+Artificial Tears	195	ARTTS
+Aspirin	196	ASA300R
+Aspirin	197	ASA325
+Aspirin	198	ASA600R
+Aspirin	199	ASA81
+Aspirin EC	200	ASA81EC
+Aspirin (Buffered)	201	ASAB325
+Aspirin EC	202	ASAEC325
+Ascorbate Sodium	203	ASCO1000I
+Ascorbic Acid	204	ASCO250
+Ascorbic Acid	205	ASCO250I
+Ascorbic Acid	206	ASCO500
+Ascorbic Acid	207	ASCO500I
+Ascorbic Acid	208	ASCO500L
+Ascorbic Acid	209	ASCOR504L
+Asparaginase (Erwinia chrysan)	210	ASPAE10000I
+Asparaginase	211	ASPAR1I
+Asparaginase	212	ASPARSYR
+Aspirin 325 mg or Placebo	213	ASPI325INDP
+Aspirin 81 mg or Placebo	214	ASPI81INDP
+Aspirin Desensitization (Angioedema)	215	ASPIDESEN
+Morphine (PF)	216	ASTR5000I
+Morphine Sulfate (PF)	217	ASTR5I
+Atazanavir	218	ATAZ100
+Atazanavir	219	ATAZ150
+Atazanavir	220	ATAZ200
+Atenolol	221	ATEN100
+Atenolol	222	ATEN25
+Atenolol	223	ATEN50
+Atgam	224	ATGAM
+Anti-Thymocyte Globulin (Rabbit) Desensitization	225	ATGDESEN
+Strattera	226	ATOM40
+Strattera	227	ATOM60
+Atorvastatin	228	ATOR10
+Atorvastatin	229	ATOR20
+Atorvastatin	230	ATOR40
+Atorvastatin	231	ATOR80
+Atorvastatin Study Drug	232	ATORSTUDY
+Atovaquone Suspension	233	ATOV750S
+Atropine Sulfate 1% Ophth Ointment	234	ATR1EO
+ATRIPLA	235	ATRA50I
+Atropine Sulfate 1%	236	ATRO1/15ES
+Atropine Sulfate Ophth 1%	237	ATRO1ES
+Atropine Sulfate	238	ATRO1I
+Atropine Sulfate	239	ATRO20I
+Atropine Sulfate	240	ATRO4I
+Atropine Sulfate	241	ATROP1I
+Amoxicillin-Clavulanate Desensitization	242	AUGM0.0125L
+Amoxicillin-Clavulanate Desensitization	243	AUGM0.125L
+Amoxicillin-Clavulanate Desensitization	244	AUGM1.25L
+Amoxicillin-Clavulanate Desensitization	245	AUGM100L
+Amoxicillin-Clavulanate Desensitization	246	AUGM200L
+Amoxicillin-Clavulanic Acid	247	AUGM250
+Amoxicillin-Clavulanate Susp.	248	AUGM250L
+Amoxicillin-Clavulanic Acid	249	AUGM500
+Amoxicillin-Clavulanate Susp.	250	AUGM500L
+Amoxicillin-Clavulanate Desensitization	251	AUGM50L
+Amoxicillin-Clavulanic Acid	252	AUGM875
+Amoxicillin-Clavulanic Acid	253	AUGM875L
+Augmentin Suspension	254	AUGMSUSP
+Aveeno Bath	255	AVEENOC
+Azathioprine Sodium	256	AZA100I
+Azacitidine	257	AZAC100I
+Azathioprine	258	AZAT25HT
+Azathioprine	259	AZAT37.5HT
+Azathioprine	260	AZAT50
+Azathioprine	261	AZAT50L
+Azathioprine	262	AZAT75
+Astelin	263	AZEL137N
+Neo*PO*Azithromycin	264	AZIT100L
+Azithromycin 	265	AZIT500I
+Azithromycin	266	AZIT600
+Triamcinolone Acetonide(Inhal)	267	AZMA20H
+Aztreonam	268	AZTR1000FB
+Aztreonam	269	AZTR1000I
+Aztreonam  Desensitization 	270	AZTR1000ID
+Aztreonam	271	AZTR1I
+Aztreonam	272	AZTR2FB
+Aztreonam	273	AZTR2I
+Belladonna & Opium (16.2/30mg)	274	B&OSUPP
+Bacitracin	275	BACI100000L
+Bacitracin Ointment	276	BACI15O
+Orthopedic Solution	277	BACI25/1L
+Bacitracin	278	BACI5I
+Bacitracin	279	BACICAP
+Bacitracin Ophthalmic oint	280	BACIEO
+Baclofen	281	BACL10
+baclofen	282	BACL2000I
+Sulfameth/Trimethoprim	283	BACT10I
+Mupirocin Cream 2%	284	BACT2/15C
+Mupirocin Nasal Ointment 2%	285	BACT2/1O
+Mupirocin Ointment 2%	286	BACT20
+Mupirocin Ointment 2%	287	BACT2022G
+Sulfameth/Trimethoprim Suspension	288	BACT20L
+Bactroban	289	BACT2C
+Bactrim Desensitization	290	BACTDES1
+Bactrim Desensitization	291	BACTDES2
+Bactrim Desensitization	292	BACTDES3
+Bactrim Desensitization	293	BACTDES4
+Bactrim Desensitization	294	BACTDES5
+Bactrim Desensitization	295	BACTDES6
+Sulfameth/Trimethoprim DS	296	BACTDS
+Sulfamethoxazole/Trimethoprim	297	BACTNEO
+Sulfameth/Trimethoprim SS	298	BACTSS
+Sulfameth/Trimethoprim SS	299	BACTSSSM
+Bag	300	BAG
+Bag	301	BAG100
+Bag	302	BAG1000I
+Bag	303	BAG250I
+Bag	304	BAG3000mL
+Bag	305	BAG50
+Bag	306	BAG50I
+Colazal	307	BALS750
+Readi-Cat 2 (Barium Sulfate 2% Suspension)	308	BARI2/450L
+Basis	309	BASIS
+Hepatitis B Immune Globulin (Bayhep B)	310	BAYHEP.5I
+Becaplermin Gel 0.01%	311	BECA15G
+Beclomethasone Dipro. (Oral)	312	BECL16.8H
+Qvar	313	BECLINH
+Beclomethasone Dipro. (Nasal)	314	BECO67H
+Beclomethasone Dipro. AQ (Nasal)	315	BECONASEAQ
+Belatacept Study Drug (*IND*)	316	BELAIND
+Donnatol	317	BELL5L
+Benazepril HCl	318	BENA10
+Benazepril HCl	319	BENA20
+Lotensin	320	BENA5
+BENDAmustine	321	BEND100I
+Bengay	322	BENGAY2O
+Benztropine Mesylate	323	BENZ1
+Benzonatate	324	BENZ100
+Benzoyl Peroxide Gel 10%	325	BENZ10O
+Benztropine Mesylate	326	BENZ1I
+Benztropine Mesylate	327	BENZ2
+Benzoyl Peroxide	328	BENZ2.5G
+Benztropine Mesylate	329	BENZ5
+*NF* Benzoyl Peroxide 5% Wash	330	BENZLIQ
+Beractant	331	BERA4I
+Beractant	332	BERA8I
+Betamethasone Dipro 0.05% Cream	333	BETA0.05C
+Betamethasone Dipro 0.05% Lot.	334	BETA0.05L
+Betamethasone Dipro 0.05% Cream	335	BETA0.05O
+Betaxolol	336	BETA10
+Povidone Iodine 10% Ointment	337	BETA10O
+Povidone Iodine	338	BETA10T
+Betamethasone Sodium Phos/Acet	339	BETA12S
+Levobunolol 0.25%	340	BETA25D
+Betaxolol Hcl  0.25%	341	BETA25ES
+Betamethasone Acet & Sod Phos	342	BETA30I
+Betamethasone Dipro 0.05% Augmented Gel	343	BETAAUG0.05G
+Povidone Iodine 1/8 Strength	344	BETAEL
+Povidone Iodine 1/2 Strength	345	BETAH1
+Povidone Iodine 1/4 Strength	346	BETAQL
+Betamethasone Valerate 0.1% Ointment	347	BETAVAL.1/15O
+Betamethasone Valerate 0.1% Cream	348	BETAVAL.1/45C
+Betamethasone Valerate 0.1% Ointment	349	BETAVAL.1/45O
+Betamethasone Valerate 0.1% Cream	350	BETAVAL0.1/15C
+Bethanechol	351	BETH25
+Bethanechol	352	BETH5
+Bevacizumab	353	BEVA400I
+Clarithromycin	354	BIAX250
+Clarithromycin	355	BIAX500
+Bicalutamide	356	BICA50
+Sod Citrate-Citric Acid	357	BICI30L
+Sodium Citrate/Citric Acid	358	BICINEO
+Lumigan	359	BIMA.03E
+Bisacodyl	360	BISA10R
+Bisacodyl	361	BISA5
+Zebeta	362	BISO5
+Bivalirudin	363	BIVA250I
+Bleomycin	364	BLEO15I
+Sulfacetamide 10% Ophth. Oint.	365	BLEP10EO
+Sulfacetamide 10% Ophth Soln.	366	BLEP10ES
+Sulfacetamide-Prednisolone Ophth. Susp.	367	BLEP2ES
+Blistex Lip Ointment	368	BLISTEX
+Bortezomib	369	BORT3.5I
+Bortezomib	370	BORT3.5SC
+Botox	371	BOTOX
+Azopt	372	BRIN1E
+Bromocriptine Mesylate	373	BROM25
+Balanced Salt Opth. Soln	374	BSS15ES
+BTL	375	BTL100
+250 mL Bottle	376	BTL250
+Bottle	377	BTL500I
+Bottle, Glass	378	BTL750I
+Pulmicort	379	BUDE0.25
+Pulmicort	380	BUDE0.5
+Pulmicort Turbuhaler	381	BUDE200H
+Budesonide	382	BUDE3
+Bumetanide	383	BUME.5I
+Bumetanide	384	BUME05
+Bumetanide	385	BUME1
+Bumetanide	386	BUME2
+Bumetanide	387	BUME25I
+Bupivacaine 0.1%	388	BUP01ED
+Bupivacaine 0.05%	389	BUPI0.05EPD
+Bupivacaine 0.1%	390	BUPI0.1CADD
+Bupivacaine 0.1%	391	BUPI0.1EPD
+Bupivacaine 0.2%	392	BUPI0.2EPD
+Bupivacaine 0.25%	393	BUPI25I
+Bupivacaine 0.5%	394	BUPI5I
+Bupivacaine 0.75%	395	BUPI75I
+Bupivacaine 0.25%	396	BUPIV0.25BAG
+Bupivacaine 0.25%-Epinephrine	397	BUPIWE25I
+Bupivacaine 0.50%-Epinephrine	398	BUPIWE5I
+Buprenorphine-Naloxone (8mg-2mg)	399	BUPNAL82
+BuPROPion	400	BUPR100
+Bupropion SR	401	BUPR100SR
+BuPROPion (Sustained Release)	402	BUPR150
+Wellbutrin XL	403	BUPR150XL
+Buprenorphine	404	BUPR2
+Buprenorphine HCl	405	BUPR3I
+Bupropion	406	BUPR75
+BusPIRone	407	BUSP10
+BusPIRone	408	BUSP5
+Busulfan	409	BUSU60I
+*NF* Butorphanol Tart. Nasal	410	BUTO1N
+cabergoline	411	CABE0.5
+Calcium Chloride Oral Soln	412	CACHL30L
+Calcium Chloride	413	CACL1000I
+Yellow CADD Cassette	414	CADDNS250
+Blue CADD Cassette	415	CADDNS250B
+NEO*PO*Caffeine Citrate	416	CAFCIT
+Caffeine-Sodium Benzoate	417	CAFF250I
+NEO*IV*Caffeine Citrate	418	CAFFCIT60I
+Calcium Gluconate	419	CAGLMEQ
+Calcium Carbonate	420	CAL1250
+Calcipotriene 0.005% Cream	421	CALC.005C
+Calcitriol	422	CALC.5
+Calcium Chloride	423	CALC100I
+Calcium Chloride	424	CALC100SI
+Calcium Carbonate	425	CALC1250L
+Calcium Chloride	426	CALC13.6I
+Calcitriol	427	CALC1I
+Calcitriol	428	CALC25
+Calcitonin Salmon	429	CALC2N
+Calcitonin Salmon	430	CALC400I
+Calcitonin Salmon	431	CALC400S
+Calcium Carbonate	432	CALC500
+Calcium Acetate	433	CALC667
+Calcium Gluconate	434	CALCG2/100NS
+Calcium Citrate	435	CALCIT950
+Citracal + D	436	CALCITVITD
+Calcium Gluconate	437	CALG1I
+Calcium Gluconate	438	CALG500
+Calcium Gluconate	439	CALGLUCNEO
+Irinotecan	440	CAMP200I
+Caspofungin	441	CANC50I
+Caspofungin	442	CANC70I
+Atacand	443	CAND16
+Atacand	444	CAND4
+Candida Albicans	445	CANDIDA
+Cangrelor Study Drug (*IND*)	446	CANGIND
+*NF* Capecitabine	447	CAPE500
+Caphosol	448	CAPH15L
+Capsaicin 0.025%	449	CAPS25C
+Captopril	450	CAPT1
+Captopril	451	CAPT125
+Captopril	452	CAPT25
+Captopril	453	CAPT50
+Sucralfate	454	CARA1
+Tegretol XR	455	CARB100CR
+Carbamazepine	456	CARB100T
+Carbamazepine XR	457	CARB100XR
+Carbamazepine	458	CARB200
+Carbamazepine ER	459	CARB200ER
+Carbamazepine	460	CARB200L
+Carbamazepine (Extended-Release)	461	CARB200XR
+carbidopa	462	CARB25
+Hemabate	463	CARB250I
+Carbamazepine	464	CARB300ER
+CARBOplatin	465	CARB450I
+carisoprodol	466	CARI350
+Carmustine	467	CARM100I
+Carteolol 1% Ophth Soln	468	CART1ES
+Carvedilol	469	CARV125
+Carvedilol	470	CARV31.25L
+Carvedilol	471	CARV3125
+Carvedilol	472	CARV625
+Castor Oil	473	CAS30L
+Caspofungin Desensitization	474	CASP70DESEN
+CloniDINE	475	CATA1
+Clonidine HCl	476	CATA2
+CefazoLIN	477	CEF1000I
+Ceftazidime	478	CEF2I
+Cefuroxime Sodium	479	CEF750I
+CefazoLIN Desensitization	480	CEFA1000I
+CefazoLIN	481	CEFA10I
+CefazoLIN	482	CEFA1F
+Cefazolin	483	CEFA1I
+CefazoLIN	484	CEFA2D
+Cefazolin	485	CEFA500I
+Cefazolin	486	CEFA5ML
+NEO*IV*Cefazolin	487	CEFANEO
+Cefepime Desensitization	488	CEFDES
+CefePIME	489	CEFE1000I
+CefePIME	490	CEFE1I
+CefePIME	491	CEFE2I
+*NF* Cefixime Suspension	492	CEFI100L
+Cefotetan	493	CEFO1F
+Cefotetan	494	CEFO2F
+Cefotetan	495	CEFOT2I
+Cefpodoxime Proxetil	496	CEFP100
+Cefpodoxime Proxetil	497	CEFP200
+Ceftriaxone Sodium	498	CEFR1I
+CeftriaXONE	499	CEFR250I
+Ceftriaxone Sodium	500	CEFR2I
+CefTAZidime Desensitization	501	CEFT1000DES
+Ceftazidime	502	CEFT1F
+CeftazIDIME	503	CEFT1V
+Ceftazidime	504	CEFT2F
+CeftazIDIME	505	CEFT2I
+CeftriaXONE	506	CEFT500I
+*NF* Ceftaroline	507	CEFT600I
+CeftriaXONE Desensitization	508	CEFTR1000I
+Cefuroxime	509	CEFU250
+Cefuroxime Sodium	510	CEFU750F
+Cefuroxime Sodium	511	CEFU75I
+CeftriaXONE	512	CEFX1F
+CeftriaXONE	513	CEFX2F
+Celebrex	514	CELE100
+Celebrex	515	CELE200
+Cepacol (Menthol)	516	CEPACOL1
+Cephalexin	517	CEPH250
+Cephalexin	518	CEPH250S
+Cephalexin	519	CEPH500
+Cephalexin	520	CEPH500L
+Cephalexin Suspension	521	CEPH50L
+Cephalexin Desensitization	522	CEPHDESEN1/10L
+Cephalexin Desensitization	523	CEPHDESEN1L
+Cephalexin Desensitization	524	CEPHDESEN50L
+Cetacaine	525	CETA56T
+Cetirizine-Pseudoephedrine	526	CETI10
+Cetuximab	527	CETU100I
+*NF* Cefotaxime	528	CETX2I
+Evoxac	529	CEVI30
+Activated Charcoal-Sorbitol	530	CHAR120L
+charc	531	CHAR50L
+Charcoal Aqueous (Activated)	532	CHARC120L
+Syringe (Chemo)	533	CHEMOSYR
+Chlorothiazide Sodium	534	CHL500I
+Chlorothiazide Sodium	535	CHL500PB
+Chlordiazepoxide HCl	536	CHLO10
+Chlorhexidine Gluconate 0.12% Oral Rinse	537	CHLO15L
+Chloraseptic Throat Spray	538	CHLO180S
+Chlorambucil	539	CHLO2
+Chloroprocaine 2% MPF	540	CHLO20I
+Chlordiazepoxide HCl	541	CHLO25
+Chlorothiazide	542	CHLO250
+Chlorpheniramine Maleate	543	CHLO4
+Chlorothiazide	544	CHLO500
+Chloral Hydrate (Syrup)	545	CHLO500L
+Chloroquine	546	CHLOR250
+Chlordiazepoxide HCl	547	CHLOR5
+Chloroprocaine 2%	548	CHLORO2
+Chloroprocaine 3% MPF	549	CHLORO30
+Chloroquine	550	CHLQ500
+Chloramphenicol Na Succ	551	CHO1I
+Cholestyramine	552	CHOL4G
+Choline Magnesium Trisalicylate	553	CHOL500
+Choline Magnesium Trisalicylate	554	CHOL750
+Chlorpropamide	555	CHPR100
+ChlorproPAMIDE	556	CHPR250
+Chlorthalidone	557	CHTH25
+Cidofovir 0.25% Oral Soln	558	CIDO0.25S
+Cidofovir 1% Topical Paste	559	CIDO1P
+Cidofovir	560	CIDO75I
+cilos	561	CILL50
+Ciprofloxacin 0.3% Ophth Soln	562	CILO25ES
+Pletal	563	CILOS100
+NS	564	CIMBASE
+Cimetidine HCl	565	CIME150I
+Cimetidine	566	CIME300
+Cimetidine	567	CIME400
+Cinacalcet HCl	568	CINA30
+*NF* Ciprofloxacin 0.3% Ophth Oint	569	CIPR0.3EO
+Ciprofloxacin IV	570	CIPR200I
+Ciprofloxacin	571	CIPR200PM
+Ciprofloxacin HCl	572	CIPR250
+Ciprofloxacin IV	573	CIPR400PM
+Ciprofloxacin HCl	574	CIPR500
+Ciprofloxacin HCl	575	CIPR50L
+Ciprofloxacin HCl	576	CIPR750
+Ciprofloxacin	577	CIPRO400I
+5% Dextrose	578	CIPROBASE
+Cisatracurium Besylate	579	CISA10I
+Cisatracurium Besylate	580	CISA200I
+Cisatracurium Besylate	581	CISA20I
+Cisplatin	582	CISP50I
+CISplatin	583	CISP50IV
+Citalopram	584	CITA20
+Citalopram	585	CITA2L
+Sodium Citrate	586	CITR30L
+Critic-Aid Skin Paste	587	CITR6T
+Cladribine	588	CLAD100I
+Clarithromycin	589	CLAR250L
+Clarithromycin	590	CLAR250SYR
+Clarithromycin	591	CLAR500SYR
+Amino Acids 4.25% W/ Dextrose 5%	592	CLIN1000I
+Clindamycin	593	CLIN150
+Clindamycin	594	CLIN1S
+Clindamycin	595	CLIN300L
+Clindamycin	596	CLIN300PM
+Clindamycin Phosphate	597	CLIN600I
+Clindamycin	598	CLIN600PM
+Clindamycin	599	CLIN75L
+Clindamycin	600	CLIN9000I
+Clindamycin Phosphate	601	CLIN900I
+Clindamycin	602	CLIN900PM
+D5W	603	CLINBASE
+Clopidogrel Desensitization	604	CLO025L
+Clobetasol Propionate 0.05% Cream	605	CLOB.05C30
+Clobetasol Propionate 0.05% Gel	606	CLOB.05G30
+Clobetasol Propionate 0.05% Ointment	607	CLOB.05O30
+Clobetasol Propionate 0.05% Soln	608	CLOB0.05S
+Clobetasol Propionate	609	CLOB005O
+Clobetasol Propionate	610	CLOB05C
+clobazam	611	CLOB5
+Clofarabine	612	CLOF20I
+Clofarabine or Placebo (*IND*)	613	CLOFPLACIND
+ClomiPRAMINE	614	CLOM25
+Clomipramine HCl	615	CLOM50
+Clonazepam	616	CLON1
+CloniDINE	617	CLON1I
+Clonidine TTS 1 Patch	618	CLON1P
+Clonidine TTS 2 Patch	619	CLON2P
+Clonidine Patch 0.3 mg/24 hr	620	CLON3P
+Clonazepam	621	CLON5
+CloniDINE	622	CLON5I
+Clopidogrel Desensitization	623	CLOP.25L
+Clopidogrel Desensitization	624	CLOP0.5L
+Clopidogrel Desensitization	625	CLOP01L
+Clopidogrel Desensitization	626	CLOP05L
+Clopidogrel Desensitization	627	CLOP15L
+Clopidogrel Desensitization	628	CLOP1L
+Clopidogrel Desensitization	629	CLOP2.5L
+Clopidogrel	630	CLOP300
+Clopidogrel Desensitization	631	CLOP5L
+Clopidogrel Desensitization	632	CLOP7.5L
+Clopidogrel	633	CLOP75
+Clopidogrel 150 mg or placebo	634	CLOPIND
+Clorazepate Dipotassium	635	CLOR375
+Clorazepate Dipotassium	636	CLORA7.5
+Clotrimazole	637	CLOT10
+Clotrimazole	638	CLOT10T
+Clotrimazole Cream	639	CLOT130C
+Clotrimazole 1% Vaginal Cream	640	CLOT1VC
+Clozapine	641	CLOZ100
+Clozapine	642	CLOZ25
+Coal Tar 3% Shampoo	643	COAL3S
+Cocaine HCl	644	COCA10T
+Cocaine HCl	645	COCA4T
+Codeine Sulfate	646	CODE30
+Codeine Phosphate	647	CODE30I
+Coenzyme Q10 Study drug	648	COENIND
+Colchicine	649	COLC0.3HT
+Colchicine	650	COLC1I
+Colchicine	651	COLC5
+Colchicine	652	COLC6
+Colestid	653	COLE1
+WelChol	654	COLE625
+Colestid	655	COLEPWD
+Colistin	656	COLI150I
+Collagenase Ointment	657	COLL30O
+Colchicine	658	COLO06S
+Albuterol-Ipratropium	659	COMB14.7H
+CombiPatch	660	COMBPTCH
+LaMIVudine-Zidovudine (Combivir)	661	COMBTAB
+Prochlorperazine	662	COMP10I
+Estrogens Conjugated	663	CONJ625V
+Hydrocortisone Acetate 10%  Foam	664	CORTFOAM
+Cosyntropin	665	CORTIND
+Neomycin-Polymyxin-HC (Otic)	666	CORTOTIC
+Dorzolamide 2%/Timolol 0.5% Ophth.	667	COSO10O
+Dorzolamide 2%/Timolol 0.5% Ophth.	668	COSO5ES
+Cosyntropin	669	COSY25I
+Losartan Potassium	670	COZA25
+Losartan Potassium	671	COZAA50
+Creon 10	672	CREO10
+Creon 12	673	CREON12
+Critic-Aid Skin Paste	674	CRIT6T
+Gastrocrom	675	CROM200
+Cromolyn Sodium	676	CROM40N
+Cromolyn	677	CROM4O
+Cromolyn Sodium	678	CROM800H
+CycloSPORINE (Sandimmune)	679	CSA100
+CycloSPORINE (Sandimmune)	680	CSA100L
+CycloSPORINE (Sandimmune)	681	CSA25
+Cyclosporine	682	CSA50I
+CVVH	683	CVVH
+CVVH Citrated	684	CVVH2000I
+Trisodium Citrate 0.4% Replacement Soln	685	CVVH3556I
+Cyanocobalamin	686	CYAN100
+Cyanocobalamin	687	CYAN1000
+Cyanocobalamin	688	CYAN1I
+Cyanide Antidote	689	CYAN1KIT
+Cyanocobalamin	690	CYAN250
+Cyanocobalamin	691	CYAN50
+Cyanocobalamin	692	CYAN500
+CycloSPORINE (Sandimmune)	693	CYCL0
+cycloSPORINE	694	CYCL0.05ES
+Cyclopentolate 1%	695	CYCL1/2ES
+Cyclobenzaprine	696	CYCL10
+Cyclophosphamide	697	CYCL100I
+Cyclophosphamide	698	CYCL1I
+Cyclophosphamide	699	CYCL1IV
+Cyclopentolate 1%	700	CYCL1O
+Cyclophosphamide	701	CYCL25
+Cyclophosphamide	702	CYCL250L
+Cyclopentolate-Phenylephrine	703	CYCL2O
+Cyclophosphamide	704	CYCL50
+D5W (Glass Bottle)	705	CYCLOBASE
+Cyclophosphamide	706	CYCLOP10L
+Cyproheptadine	707	CYPR2L
+Cyproheptadine	708	CYPR4
+Cytarabine	709	CYTA100I
+Cytarabine	710	CYTA1I
+Cytarabine	711	CYTA2000SYR
+Cytarabine	712	CYTA2I
+Cytarabine Liposome	713	CYTA50I
+Cytomegalovirus Immune Glob	714	CYTO2.5I
+Cytomegalovirus Immune Glob	715	CYTO2500I
+Liothyronine Sodium	716	CYTO5T
+D10W	717	D10W1000
+D10W	718	D10W250
+D10W	719	D10W250I
+D12.5W	720	D12.5W250I
+D12W	721	D12W250I
+D15W	722	D15W250I
+D17.5W	723	D17.5W250I
+Dextrose 20% in Water (D20W)	724	D20W1000I
+D20W	725	D20W250I
+Dextrose 20% in Water (D20W)	726	D20W500I
+D25W	727	D25W250I
+D30W	728	D30W250I
+Stavudine	729	D4T15
+Stavudine	730	D4T20
+D5W 0.1% Albumin	731	D5250.1ALB
+D5 1/4NS	732	D52NS1000
+Travasol 4.25% W/ Dextrose 5%	733	D54.25T1LI
+D5 1/2NS	734	D545NS1000
+D5W W 0.2% Albumin	735	D550.2ALB
+D5LR	736	D5LR1000
+D5NS	737	D5NS1000
+5% Dextrose	738	D5W
+D5W W/ 0.1% Albumin	739	D5W0.1ALB250
+5% Dextrose	740	D5W100
+5% Dextrose	741	D5W1000
+D5W (Glass Bottle)	742	D5W100G
+D5W	743	D5W150
+5% Dextrose	744	D5W25
+5% Dextrose	745	D5W250
+D5W (EXCEL BAG)	746	D5W250E
+D5W (GLASS BOTTLE)	747	D5W250G
+D5W	748	D5W3000
+5% Dextrose	749	D5W50
+D5W	750	D5W500
+5% Dextrose (EXCEL BAG)	751	D5W500E
+5% Dextrose	752	D5W500G
+D7.5W	753	D7.5W250I
+Dabigatran Etexilate	754	DABI150
+Dabigatran Etexilate	755	DABI75
+Dacarbazine	756	DACA200I
+Daclizumab	757	DACL25I
+Dakins 1/8 Strength	758	DAKINES
+Dakins 1/2 Strength	759	DAKINHS
+Dakins 1/2 Strength	760	DAKINHS480L
+Dakins 1/4 Strength	761	DAKINQS
+Dakins Full Strength	762	DAKINSF
+Danazol	763	DANA200
+Dantrolene Sodium	764	DANM25
+Dantrolene Sodium	765	DANT20I
+Revatio	766	DAPI0.5ES
+Dapsone	767	DAPS100
+Dapsone	768	DAPS25
+Daptomycin	769	DAPT500I
+Pyrimethamine	770	DARA25
+darbepoetin alfa in polysorbat	771	DARB200I
+Aranesp (polysorbate)	772	DARB60SY
+Darunavir	773	DARU300
+Darunavir	774	DARU400
+Darunavir	775	DARU600
+Darunavir 600mg tablet	776	DARU600IND
+Propoxyphene Nap.-Apap (N-100)	777	DARV100
+Propoxyphene HCl	778	DARV65
+Dasatinib	779	DASA100
+Dasatinib	780	DASA70
+DAUNOrubicin Citrate Liposomal	781	DAU50I
+DAUNOrubicin	782	DAUN20SYR
+Daunorubicin HCl	783	DAUNO20I
+Desmopressin Nasal	784	DDAV1N
+Desmopressin 	785	DDAV1ND
+Desmopressin Acetate	786	DDAV400I
+Desmopressin Acetate	787	DDAV4I
+Didanosine Chewable Tab	788	DDI25
+Decitabine	789	DECI50I
+CGT003-03 E2F decoy	790	DECOYIND
+Deferoxamine (DFO) *IND*	791	DEFE2000I
+Exjade	792	DEFE500
+Deferoxamine Mesylate	793	DEFE500I
+Desferal	794	DEFE500IND
+Defibrotide <IND>	795	DEFI80I
+Defibrotide (*IND*)	796	DEFI80IND
+degarelix	797	DEGA120I
+Delavirdine Mesylate	798	DELA100
+Dextromethorphan Poly Complex	799	DELSYM
+demeclocycline	800	DEME150
+Demeclocycline	801	DEME300
+Divalproex (EXTended Release)	802	DEPA500ER
+Testosterone Cypionate	803	DEPO200I
+Carrington Dermal Wound	804	DERMGEL
+Dermagran Ointment	805	DERMON
+Desipramine	806	DESI10
+Desipramine HCl	807	DESI100
+Desipramine	808	DESI25
+Neo*Desitin Creamy	809	DESI2C
+Desitin	810	DESI30O
+Desipramine HCl	811	DESI50
+Desmopressin Acetate	812	DESM0.1
+Desmoteplase or Placebo	813	DESMIND2
+Desmoteplase Study Drug (*IND*)	814	DESMOIND
+Desonide 0.05% Cream	815	DESO15C
+Dextrose 50%	816	DEX50SY
+Dexamethasone Oral Soln (0.1mg/1mL)	817	DEXA0.1L
+Dexamethasone 	818	DEXA0.5L
+Dexamethasone Sod Phosphate	819	DEXA100I
+Dexamethasone	820	DEXA10I
+Dexamethasone	821	DEXA15
+Dexamethasone Sod Phos Ophth	822	DEXA1ES
+Dexamethasone Intensol	823	DEXA1L
+Dexamethasone	824	DEXA2
+Dexamethasone	825	DEXA4
+Dexamethasone	826	DEXA4I
+Dexamethasone	827	DEXA5
+Dexamethasone	828	DEXA5L
+Dexamethasone Oral Soln (0.1mg/1mL)	829	DEXA60L
+Dexamethasone	830	DEXA75
+Dexamethasone	831	DEXAM20I
+Dextroamphetamine	832	DEXE5
+Dexmedetomidine	833	DEXM200I
+Dexrazoxane	834	DEXR500I
+Dextromethorphan Poly Complex	835	DEXT30L
+D5W (Glass Bottle)	836	DEXT500B
+Dextran 40 10%	837	DEXT500D5W
+Dextran 40 10%	838	DEXT500I
+Dextromethorphan Poly Complex	839	DEXT5L
+D5W	840	DEXTRANBAG
+NS	841	DEXTRANBAGNS
+D5W	842	DEXTROSE
+Diazepam	843	DIAZ10
+Diazepam	844	DIAZ10I
+Diazepam	845	DIAZ2
+Diazepam	846	DIAZ5
+*NF* Diazoxide Suspension	847	DIAZ50L
+Diazepam	848	DIAZ5I
+Diazepam	849	DIAZE5I
+Dibucaine	850	DIBU
+DiCYCLOmine	851	DICL10
+Voltaren	852	DICL1ES
+Diclofenac Sodium DR	853	DICL25
+Dicloxacillin	854	DICL250
+Voltaren-XR	855	DICL50
+DiCLOXacillin	856	DICL500
+Diclofenac Sodium	857	DICL75
+Dicyclomine	858	DICY20
+Didanosine Chewable Tab	859	DIDA100
+Didanosine EC	860	DIDA125
+Didanosine EC	861	DIDA200EC
+Didanosine EC	862	DIDA250
+Didanosine EC	863	DIDA400
+NEO*PO*Digoxin Elixer	864	DIG5P
+Digoxin	865	DIGO.5I
+*NF* Digoxin (Lanoxicaps)	866	DIGO100C
+Digoxin	867	DIGO125
+Digoxin	868	DIGO125L
+Lanoxicaps	869	DIGO200C
+Digoxin	870	DIGO25
+Digoxin	871	DIGO25L
+Phenytoin	872	DILA100
+Hydromorphone	873	DILA2I
+Phenytoin	874	DILA30
+HYDROmorphone-HP	875	DILHP50I
+*NF* Diltiazem SR	876	DILT120SR
+Diltiazem	877	DILT125I
+Diltia	878	DILT25I
+Diltiazem	879	DILT30
+Diltiazem	880	DILT500I
+Diltiazem	881	DILT60
+Diltiazem 	882	DILT60SR
+Diltiazem	883	DILT90
+Diltiazem	884	DILT90SR
+DiphenhydrAMINE HCl	885	DIPH125L
+Diphenhydramine Liquid	886	DIPH2.5L
+Diphenhydramine HCl	887	DIPH25
+Diphenhydramine HCl	888	DIPH25L
+DiphenhydrAMINE	889	DIPH50I
+Dipivefrin HCl 0.1% 	890	DIPI1ES
+Dipyridamole	891	DIPY25
+Dipyridamole	892	DIPY50
+Dipyridamole	893	DIPY75
+Disopyramide Phosphate	894	DISO100
+Disopyramide CR	895	DISO100CR
+Disopyramide Phosphate	896	DISO150
+Disopyramide CR	897	DISO150CR
+Disulfiram	898	DISU250
+Dextromethorphan-Guaifenesin (Sugar Free)	899	DITU4L
+Divalproex (DELayed Release)	900	DIVA125
+Divalproex Sod. Sprinkles	901	DIVA125SP
+Divalproex 	902	DIVA1750L
+Divalproex (DELayed Release)	903	DIVA250
+Divalproex (EXTended Release)	904	DIVA250ER
+Divalproex Sodium	905	DIVA500
+DOBUTamine	906	DOBPREM
+DOBUTamine	907	DOBU250I
+D5W	908	DOBUBASE
+Docusate Sodium	909	DOCU100
+Docusate Sodium (Liquid)	910	DOCU100L
+Dofetilide	911	DOFE125
+Dofetilide	912	DOFE250
+Dofetilide	913	DOFE500
+Dolasetron Mesylate	914	DOLA100I
+Dolasetron Mesylate	915	DOLA12.5I
+Dolasetron Mesylate	916	DOLAS100
+Acetic Acid Otic	917	DOME
+Domeboro	918	DOMEPKT
+Donepezil	919	DONE10
+Donepezil	920	DONE5
+Donepezil	921	DONEIND
+Donnatol	922	DONN162
+Dopamine HCl	923	DOPA200I
+DopAmine	924	DOPA400D
+DOPamine	925	DOPA400I
+DopAmine	926	DOPA400PM
+D5W	927	DOPABASE
+Doripenem *NF*	928	DORI500I
+Dornase alfa *NF*	929	DORN2.5PL
+Dorzolamide 2% Ophth. Soln.	930	DORZ2S
+Doxercalciferol	931	DOX2.5
+Doxazosin	932	DOXA1
+Doxazosin	933	DOXA2
+Doxazosin	934	DOXA4
+Doxacurium Chloride	935	DOXA5I
+Doxazosin	936	DOXA8T
+Doxercalciferol	937	DOXE0.5
+Doxepin HCl	938	DOXE10
+Doxepin HCl	939	DOXE25
+Doxercalciferol	940	DOXE2I
+Doxepin HCl	941	DOXE50
+Zonalon	942	DOXE5C
+Doxorubicin HCl Liposomal	943	DOXO20I
+DOXOrubicin	944	DOXO50I
+DOXOrubicin	945	DOXO50SYR
+Doxycycline Hyclate	946	DOXY100C
+Doxycycline Hyclate	947	DOXY100I
+Doxycycline Hyclate	948	DOXY50
+DimenhyDRINATE	949	DRAM50
+Dronabinol	950	DRON10
+Dronabinol	951	DRON25
+Dronedarone	952	DRON400
+Droperidol	953	DROP5I
+Droperidol	954	DROP5PB
+Drotrecogin Alfa (Xigris)	955	DROT20I
+Drotrecogin Alfa (Xigris)	956	DROT5I
+<IND> Drotrecogin Alfa Study Drug	957	DROTIND
+Tetanus-Diphtheria Tox (DECAVAC)	958	DT.5I
+NEO*IM*DT  & Acellular Pertussis	959	DTAP
+Opium Tincture	960	DTO.6ML
+NEO*PO*Opium Tincture (Dilute)	961	DTO0.4S
+Opium Tincture	962	DTOBULK
+Duloxetine	963	DULO20
+Duloxetine	964	DULO30
+Iso-Osmotic Dextrose	965	DUPLEX50
+Lacri-Lube Oint	966	DURA
+Morphine Sulfate For Inhalation	967	DURA100I
+Digoxin Immune Fab	968	DXIG40I
+Triamterene-Hydrochlorothiazide	969	DYAZ1
+prednisolone acetate	970	ECON1C
+edrophonium chloride	971	EDRO10I
+Efavirenz	972	EFAV200
+Efavirenz	973	EFAV20L
+Efavirenz	974	EFAV30L
+Efavirenz	975	EFAV600
+Lidocaine-Prilocaine	976	EMLA2.5
+Emtricitabine-Tenofovir (Truvada)	977	EMTR10L
+Emtricitabine	978	EMTR200
+Erythromycin	979	EMYC200L
+Enalapril Maleate	980	ENAL10
+Enalaprilat	981	ENAL25I
+Enalaprilat	982	ENAL25IVPB
+Enalapril Maleate	983	ENAL5
+Etanercept	984	ENBR25I
+Enfuvirtide	985	ENFU90I
+Enoxaparin Sodium	986	ENO3I
+Enoxaparin Sodium	987	ENOX100I
+Enoxaparin Sodium	988	ENOX120I
+Enoxaparin Sodium	989	ENOX150I
+Enoxaparin Sodium	990	ENOX60I
+Enoxaparin Sodium	991	ENOX80I
+Comtan	992	ENTA200
+Etanercept	993	ENTA50I
+Entecavir	994	ENTE0.05L
+Entecavir	995	ENTE0.5
+Entecavir	996	ENTE1
+Ephedrine	997	EPHE50I
+Epinephrine Inhalation	998	EPI15H
+Epinephrine	999	EPI1I
+Epinephrine Topical Soln	1000	EPI1N
+Epinephrine Inhalation	1001	EPI30H
+Epinephrine 1:1000	1002	EPI30I
+Epinephrine	1003	EPI400SYR
+NS Epidural Bag 	1004	EPIBAG
+NS Epidural Bag (0.9% NaCl)	1005	EPIBAG2
+NS Epidural Bag	1006	EPIBAGH10
+NS Epidural Bag	1007	EPIBAGH20
+Epidural Bag	1008	EPIDBAG250
+Epinephrine Kit	1009	EPIDRIP
+Epinephrine HCl	1010	EPINEO
+Epinephrine 1:1000	1011	EPIPEN0.3I
+*NF* Epirubicin	1012	EPIR50I
+Epinephrine HCl	1013	EPIS10I
+Eplerenone	1014	EPLE25
+Eplerenone	1015	EPLE50
+Epoetin Alfa	1016	EPO10I
+Epoetin Alfa	1017	EPO10INESRD
+Epoetin Alfa	1018	EPO20I
+Epoetin Alfa	1019	EPO20INESRD
+Epoetin Alfa	1020	EPO2I
+Epoetin Alfa	1021	EPO2INESRD
+Epoetin Alfa	1022	EPO3I
+Epoetin Alfa	1023	EPO3INESRD
+Epoetin Alfa	1024	EPO40I
+Epoetin Alfa	1025	EPO4I
+Epoetin Alfa	1026	EPO4INESRD
+Epoetin Alfa	1027	EPOHD
+Epoprostenol Na	1028	EPOP1.5I
+Epoprostenol Na	1029	EPOP5I
+Magnesium Sulfate	1030	EPSOM
+Vitamin D	1031	ERGO400T
+Vitamin D	1032	ERGO50
+Ergocalciferol	1033	ERGO8000LNEO
+Vitamin D	1034	ERGO8L
+NEO*PO*Ergocalciferol	1035	ERGONEO
+Ergotamine-Caffeine	1036	ERGT1
+Ergotamine-Caffeine	1037	ERGT1R
+*NF* Erlotinib	1038	ERLO150
+*NF* Erlotinib	1039	ERLO25
+*NF* Ertapenem Sodium	1040	ERTA1I
+Erythromycin	1041	ERY1I
+Erythromycin 0.5% Ophth Oint	1042	ERYT0.5EO
+Erythromycin	1043	ERYT250
+Erythromycin	1044	ERYT250L
+Erythromycin	1045	ERYT25L
+Erythromycin	1046	ERYT2S
+Erythromycin	1047	ERYT500I
+Escitalopram Oxalate	1048	ESCI10
+Esmolol	1049	ESMO100I
+Esmolol	1050	ESMO2.5PM
+Esmolol	1051	ESMO25I
+Esmolol	1052	ESMO2PM
+NS	1053	ESMOB100
+NS	1054	ESMOBASE
+Nexium	1055	ESOM20
+Vivelle	1056	ESTR0.025T
+Estradiol	1057	ESTR0.05T
+Estradiol	1058	ESTR1
+Estrogens Conjugated	1059	ESTR125
+Estraderm	1060	ESTR1P
+Estrogens Conjugated	1061	ESTR25I
+Estrogens Conjugated	1062	ESTR3
+alora	1063	ESTR5P
+Estrogens Conjugated	1064	ESTR625
+Ethambutol HCl	1065	ETHA100
+Ethacrynic Acid	1066	ETHA25
+Ethambutol HCl	1067	ETHA400
+Ethacrynate Sodium	1068	ETHA50I
+Ethanol 70% Catheter DWELL	1069	ETHAN70I
+Zarontin	1070	ETHO250
+Zarontin	1071	ETHO50L
+Estratest H.S.	1072	ETHSTAB
+Ethyl Chloride	1073	ETHYT
+Etidronate Disodium	1074	ETID200
+Etodolac	1075	ETOD200
+Alcohol Dehydrated	1076	ETOH98I
+Etomidate	1077	ETOM2I
+Etoposide	1078	ETOP100I
+Etravirine	1079	ETRA100
+Etravirine 100mg tablet	1080	ETRA100IND
+Hydrocerin	1081	EUCE120C
+0.9% Sodium Chloride (EXCEL BAG)	1082	EXCELNS1000
+0.9% Sodium Chloride (EXCEL BAG)	1083	EXCELNS250
+NS (Excel)	1084	EXCELNS500
+Excedrin Migraine	1085	EXCMIGTAB
+Aromasin	1086	EXEM25
+Ezetimibe	1087	EZET10
+Fentanyl Citrate	1088	F2B1ED
+Fentanyl Citrate	1089	F4B1ED
+Proplex T	1090	FACT9
+Famvir	1091	FAMC250
+Famciclovir	1092	FAMC500
+Famotidine (IV)	1093	FAMO20I
+Famotidine (IV)	1094	FAMO20PM
+Famotidine	1095	FAMO20SM
+Famotidine (IV)	1096	FAMOT20I
+Febuxostat	1097	FEBU40
+Felbatol	1098	FELB400
+Felodipine	1099	FELO2.5
+*NF* Fenoldopam Mesylate	1100	FELO20I
+Felodipine	1101	FELOD5
+Fentanyl PCA	1102	FEN1250PCA
+Fentanyl PCA	1103	FEN2500PCA
+Fentanyl PCA	1104	FEN625PCA
+*NF* Fenoldopam Mesylate	1105	FENO10I
+fenofibrate	1106	FENO145
+Tricor	1107	FENO160
+fenofibrate	1108	FENO48
+Tricor	1109	FENO54
+Fentanyl Patch	1110	FENT100P
+Fentora	1111	FENT100T
+Fentanyl Citrate	1112	FENT10I
+Fentanyl Patch	1113	FENT12.5P
+Fentanyl Patch	1114	FENT12P
+Fentanyl	1115	FENT2.5250
+Fentanyl Citrate	1116	FENT2.550
+Fentanyl Citrate	1117	FENT2.5I
+Fentanyl Citrate	1118	FENT20I
+Fentanyl Citrate	1119	FENT250I
+Fentanyl Patch	1120	FENT25P
+Fentanyl Citrate	1121	FENT2I
+Actiq	1122	FENT400L
+Fentanyl Citrate	1123	FENT500I
+Fentanyl Citrate	1124	FENT50I
+Fentanyl Patch	1125	FENT50P
+NEO*IV*Fentanyl	1126	FENT5I
+Fentanyl Patch	1127	FENT75P
+Soln.	1128	FENTSOLN
+Soln	1129	FENTSOLN50
+Ferrous Sulfate (Liquid)	1130	FERR300L
+Ferrous Sulfate	1131	FERR325
+Ferric Gluconate	1132	FERR62.5I
+Ferrous Gluconate	1133	FERRG
+Ferrous Gluconate	1134	FERRG325
+Feraheme	1135	FERU510I
+Fexofenadine	1136	FEXO60
+fidaxomicin	1137	FIDA200
+Propecia	1138	FINA1
+Finasteride	1139	FINA1L
+Finasteride	1140	FINA5
+Acetaminophen-Caff-Butalbital	1141	FIOC
+Aspirin-Caffeine-Butalbital	1142	FIOR
+Fish Oil (Omega 3)	1143	FISH1000
+Flecainide Acetate	1144	FLEC100
+Flecainide Acetate	1145	FLEC50
+Fleet Phospho-Soda	1146	FLEET
+Fleet Enema	1147	FLEETEN
+Fluconazole	1148	FLU200PM
+Fluconazole	1149	FLUC100
+Fluconazole	1150	FLUC100L
+Fluconazole	1151	FLUC150
+Fluconazole	1152	FLUC200
+Fluconazole	1153	FLUC200L
+Fluconazole	1154	FLUC200SM
+Fluconazole	1155	FLUC200SYR
+Flucytosine	1156	FLUC250
+Fluconazole	1157	FLUC400L
+Fluconazole	1158	FLUC50
+Flucytosine	1159	FLUC500
+Flucytosine	1160	FLUC60L
+NS	1161	FLUCBASE
+NS	1162	FLUCBASE2
+NS	1163	FLUCBASE3
+Fluconazole Desensitization	1164	FLUCDESEN
+Fluconazole	1165	FLUCO400PM
+Fludrocortisone Acetate	1166	FLUD100
+Fludarabine Phosphate	1167	FLUD50I
+Flumazenil	1168	FLUM1I
+Flumazenil	1169	FLUM500I
+Flunisolide	1170	FLUN1H
+fluocinolone acetonide oil	1171	FLUO0.01
+Fluoxetine HCl	1172	FLUO20L
+Fluorouracil	1173	FLUO2500I
+Fluorouracil	1174	FLUO2500IVP
+Fluorescein	1175	FLUO500I
+Fluphenazine	1176	FLUP1
+Fluphenazine	1177	FLUP10
+Fluphenazine	1178	FLUP125I
+Fluphenazine	1179	FLUP2.5I
+Fluphenazine	1180	FLUP25
+Fluphenazine	1181	FLUP25I
+Fluphenazine	1182	FLUP5
+Fluphenazine	1183	FLUP5L
+Flurbiprofen 0.03%	1184	FLUR3ES
+Fluticasone Propionate 110mcg	1185	FLUT110H
+Fluticasone Propionate 110mcg	1186	FLUT110HFA
+Fluticasone Propionate NASAL	1187	FLUT16N
+Flutamide	1188	FLUT1C
+Flovent	1189	FLUT220H
+Fluvoxamine Maleate	1190	FLUV100
+Lescol	1191	FLUV20
+Fluvoxamine Maleate	1192	FLUV50
+Fluorometholone 0.1% Ophth Susp.	1193	FMLSUSP
+FoLIC Acid	1194	FOLI1
+FoLIC Acid	1195	FOLI1I
+FoLIC Acid	1196	FOLI5I
+Fomepizole	1197	FOM1GI
+Fondaparinux Sodium	1198	FOND2.5I
+Fondaparinux Sodium	1199	FOND5I
+Fondaparinux Sodium	1200	FOND7.5
+Formoterol Fumarate	1201	FORM12H
+Saquinavir (Fortovase)	1202	FORT200
+Alendronate Sodium	1203	FOSA10
+Fosaprepitant	1204	FOSA150I
+Fosaprepitant	1205	FOSA150IV
+Fosamprenavir	1206	FOSA700
+Foscarnet	1207	FOSC12000I
+Foscarnet Sodium	1208	FOSC24I
+Soln.	1209	FOSCARBASE
+Fosfomycin Tromethamine	1210	FOSF3
+Fosinopril	1211	FOSI10
+Fosinopril	1212	FOSI20
+Fosinopril	1213	FOSI40
+Fosphenytoin	1214	FOSP100I
+Fosphenytoin Sodium	1215	FOSP500I
+Fleet Phospho-Soda	1216	FPS45L
+Iso-Osmotic Dextrose	1217	FRBD100
+Iso-Osmotic Dextrose	1218	FRBD50
+FTY720 1.25MG OR PLACEBO CAPS	1219	FTY7201.25IND
+FTY720 2.5MG OR PLACEBO	1220	FTY7202.5IND
+Fulvestrant	1221	FULV125I
+Fulvestrant	1222	FULV250I
+Fulvestrant (Faslodex)	1223	FULV250IND
+Furosemide	1224	FURO100I
+Furosemide	1225	FURO100PB
+Furosemide	1226	FURO10L
+Furosemide	1227	FURO20
+Furosemide	1228	FURO20I
+Furosemide	1229	FURO40
+Furosemide	1230	FURO40I
+Furosemide	1231	FURO40L
+Furosemide	1232	FURO80
+Gabapentin	1233	GABA100
+Gabapentin	1234	GABA250L
+Gabapentin	1235	GABA300
+Gabapentin	1236	GABA400
+Razadyne	1237	GALA4
+Gammagard S/D	1238	GAMM10I
+Gammagard Liquid	1239	GAMML10I
+GammaGARD Liquid	1240	GAMML30I
+Gamunex	1241	GAMU5I
+Ganciclovir	1242	GANC250C
+Ganciclovir	1243	GANC500
+Ganciclovir	1244	GANC500I
+ganciclovir 500 mgor placebo  cap	1245	GANCIND
+Gastroview (Diatrizoate Meglumine & Sodium)	1246	GAST30L
+Zymar	1247	GATI0.3O
+Gaviscon	1248	GAVITAB
+Filgrastim	1249	GCSF300I
+Filgrastim	1250	GCSF480I
+Gelclair	1251	GELCLAIR
+Gemcitabine	1252	GEM1I
+Gemfibrozil	1253	GEMF600
+Gemtuzumab Ozogamicin	1254	GEMT5I
+Neo*PO*Gentian Violet 0.25 %	1255	GENT0.25
+Gentamicin	1256	GENT01C
+Gentamicin	1257	GENT100PM
+NEO*IV*Gentamicin	1258	GENT10I
+Gentamicin	1259	GENT120FD
+Gentamicin	1260	GENT120PM
+Gentamicin Sulfate	1261	GENT20I
+Gentamicin Intraventricular	1262	GENT20IVT
+Gentamicin Sulfate Ophth.	1263	GENT3EO
+gent	1264	GENT3ES
+Gentamicin	1265	GENT60PM
+Gentamicin Sulfate	1266	GENT80I
+Gentamicin	1267	GENT80PM
+Isotonic Sodium Chloride	1268	GENTBASE1
+Isotonic Sodium Chloride	1269	GENTBASE2
+GenTeal	1270	GENTEALO
+Gentamicin 	1271	GENTFORT
+Ziprasidone Hydrochloride	1272	GEOD20
+Ziprasidone Hydrochloride	1273	GEOD80
+Guaifenesin-CODEINE Phosphate	1274	GGAC10L
+Guaifenesin-Codeine Phosphate	1275	GGAC5L
+Insulin	1276	GLAR100I
+glatiramer	1277	GLAT20I
+Amaryl	1278	GLIM1
+Glimepiride	1279	GLIM2
+Glimepiride	1280	GLIM4
+GlipiZIDE	1281	GLIP10
+GlipiZIDE	1282	GLIP5
+Glyburide/Metformin (1.25mg-250mg)	1283	GLU125/250
+Glyburide/Metformin (2.5mg-500mg)	1284	GLU25/500
+Glucovance (5mg-500mg)	1285	GLU5/500
+Glucagon	1286	GLUC1000I
+Glipizide XL	1287	GLUC10XL
+Glucagon	1288	GLUC1I
+GlipiZIDE XL	1289	GLUC2.5XL
+GlipiZIDE XL	1290	GLUC5XL
+Glucose Tab	1291	GLUCTAB
+TISSEEL/FS VH SD	1292	GLUE2IND
+TISSEEL/FS VH SD	1293	GLUEIND
+Apidra	1294	GLUL100I
+Glutamine	1295	GLUT10
+Glutamine	1296	GLUT5
+GlyBURIDE	1297	GLYB1.25
+Glyburide	1298	GLYB25
+GlyBURIDE	1299	GLYB5
+Glycopyrrolate	1300	GLYC1
+Polyethylene Glycol	1301	GLYC17
+Glycopyrrolate	1302	GLYC1I
+Glycerin (Ped)	1303	GLYC1R
+Glycerin 50%	1304	GLYC50L
+Glycopyrrolate	1305	GLYCO4I
+Glycerin (Ped)	1306	GLYCPED12
+Glycerin Supps	1307	GLYCSUP
+Glyburide Prestab	1308	GLYN3
+Debrox 6.5%	1309	GLYO65OT
+Golytely	1310	GOLY4L
+Golytely	1311	GOLY60L
+Granisetron HCl	1312	GRAN1I
+Guaifenesin	1313	GUAI10
+Guaifenesin-Dextromethorphan	1314	GUAI10L
+Guaifenesin	1315	GUAI600
+Mucinex	1316	GUAI600T
+Guaifenesin-CODEINE Phosphate	1317	GUAIC120L
+Guaifenesin	1318	GUAISF120L
+Guanfacine	1319	GUAN1
+HYDROmorphone	1320	H1B1ED
+Influenza A (H1N1) Vaccine	1321	H1H1VAC5I
+Influenza A (H1N1) Vaccine	1322	H1N1VACC
+HYDROmorphone	1323	H2B1ED
+Haemophilus B Conj. Vaccine	1324	HAEM5I
+Haloperidol Decanoate	1325	HALD100I
+Haloperidol Decanoate	1326	HALD50I
+Haloperidol	1327	HALD5I
+Haloperidol	1328	HALO05
+Haloperidol	1329	HALO1
+Haloperidol	1330	HALO10
+Haloperidol	1331	HALO2
+Haloperidol	1332	HALO2L
+Haloperidol	1333	HALO2OS
+Haloperidol	1334	HALO5
+Haloperidol	1335	HALO50I
+Haloperidol	1336	HALOPB
+Hepatitis B Immune Globulin (Nabi-HB)	1337	HBIG5I
+Hepatitis B Immune Globulin (Nabi-HB)	1338	HBIGUD5I
+Hydrocortisone Na Succ.	1339	HC100I
+Hydrocortisone	1340	HC100IC
+Hydrocortisone Enema	1341	HC100R
+Hydrocortisone	1342	HC20
+Hydrocortisone	1343	HC5
+Hydrocortisone Na Succinate	1344	HC500I
+Hydrochloric Acid	1345	HCL1MEQ
+Hydrochlorothiazide	1346	HCTZ25
+Hydrochlorothiazide	1347	HCTZ50
+Hepatitis B Immu Glob (HepaGam B)	1348	HEGB1I
+Hemorrhoidal Suppository	1349	HEMOSUPP
+Heparin Flush (1000 units/mL)	1350	HEP10I
+Heparin (Preserv. Free)	1351	HEP10UI
+Heparin Lock Flush	1352	HEP1I
+Hepatitis B Vaccine	1353	HEPA0.5I
+Heparin (IABP)	1354	HEPA1000/500
+Heparin Sodium	1355	HEPA10000/5I
+Heparin Flush CVL  (100 units/ml)	1356	HEPA100SYR
+Heparin	1357	HEPA10MUI
+Heparin Sodium (Preservative Free)	1358	HEPA10S
+Heparin Flush (10 units/ml)	1359	HEPA10SYR
+Heparin Sodium (Preservative Free)	1360	HEPA10SYRN
+Heparin CRRT	1361	HEPA30I
+Heparin Sodium	1362	HEPA5000I
+NS	1363	HEPA500ML
+Heparin	1364	HEPA5I
+Heparin Sodium	1365	HEPAPREMIX
+Heparin (Preservative Free)	1366	HEPAR10I
+Hepatitis A Vaccine	1367	HEPAV1I
+D5W	1368	HEPBASE
+Heparin CRRT	1369	HEPF100I
+Heparin Sodium	1370	HEPPREMIX
+NEO*IM*Hepatitis B Vaccine	1371	HEPV10I
+Hepatitis B Vaccine	1372	HEPVAC
+Hepatitis B Vaccine	1373	HEPVACCR
+Trastuzumab	1374	HER440I
+Hespan	1375	HESP500I
+NS	1376	HESPBASE
+NEO*IM*Haemophilus B Conjugate	1377	HIBTITER
+Homatropine HBr	1378	HOMA2ES
+Homat	1379	HOMA5ES
+Hepatitis B Immun Globulin (HepaGam B)	1380	HPGB5I
+Hepatitis B Immu Glob (HepaGam B)	1381	HPGB5PB
+Insulin	1382	HUM100I
+Insulin	1383	HUMA75/25I
+Insulin	1384	HUMU100I
+Humulin-R Insulin (U-500)	1385	HUMU500I
+Benzocaine 20% Spray	1386	HURRSPRAY
+Hyaluronidase	1387	HYAL150I
+Neo*IV*Hyaluronidase (Ovine)	1388	HYAL200I
+HYDROmorphone (Dilaudid)	1389	HYD12.5PCA
+Hydrocortisone Cream 2.5%	1390	HYD2530C
+HYDROmorphone (Dilaudid)	1391	HYD25PCA
+HYDROmorphone (Dilaudid)	1392	HYD50PCA
+Hydroxychloroquine Sulfate	1393	HYDC200
+HYDROmorphone (Dilaudid)	1394	HYDM4
+Hydrocortisone Cream 0.5%	1395	HYDR0.5C
+Hydrocortisone Oint 0.5%	1396	HYDR0.5O
+Hydrocortisone	1397	HYDR10
+Hydroxyurea Suspension	1398	HYDR1000L
+Hydromorphone HCl	1399	HYDR10I
+Hydroxyzine HCl	1400	HYDR10L
+Hydromorphone	1401	HYDR12.5LF
+Hydromorphone P.F.	1402	HYDR1AMP
+Hydrocortisone Cream 1%	1403	HYDR1C
+NEO*IV*Hydrocortisone (1mg/mL)	1404	HYDR1I
+Hydrocortisone Oint 1%	1405	HYDR1O
+HYDROmorphone (Dilaudid)	1406	HYDR1SYR
+HYDROmorphone (Dilaudid)	1407	HYDR2
+Hydroxypropyl Meth. 2.5% Ophth	1408	HYDR2.5ES
+Hydrocortisone Val. Cream 0.2%	1409	HYDR2/15C
+HYDROmorphone (Dilaudid)	1410	HYDR20/100NS
+HydrOXYzine	1411	HYDR25I
+Hydrocortisone Oint 2.5%	1412	HYDR25O
+HYDROmorphone (Dilaudid)	1413	HYDR2I
+HYDROmorphone P.F.	1414	HYDR2PF
+Hydromorphone (Rectal)	1415	HYDR3R
+Hydromorphone-HP	1416	HYDR500I
+Hydroxyurea Suspension	1417	HYDR500L
+Hydrocortisone Study Drug (*IND*)	1418	HYDRIND
+NEO*IV*Hydrocortisone	1419	HYDRNEO
+NEO*PO*Hydrocortisone Sod Succinate	1420	HYDRNEO10L
+NEO*PO*Hydrocortisone Sod Succinate	1421	HYDRNEO1L
+Hydrocortisone Na Succinate	1422	HYDRO100I
+HYDROmorphone (Dilaudid)	1423	HYDRO4I
+Syringe	1424	HYDRSYR
+Hydroxyurea	1425	HYDU500
+HydrOXYzine	1426	HYDX10
+Hydroxyzine HCl	1427	HYDX25
+Hydroxyzine HCl	1428	HYDX50
+HydrALAzine	1429	HYDZ10
+HydrALAzine	1430	HYDZ20I
+HydrALAzine	1431	HYDZ25
+HydrALAzine	1432	HYDZ50
+L-Hyoscyamine	1433	HYOS.125
+Hyoscyamine SO4 (Time Release)	1434	HYOS.375
+Sodium Chloride 3% (Hypertonic)	1435	HYPNSCL3
+Boniva	1436	IBAN3I
+Ibuprofen Suspension	1437	IBU5S
+Ibuprofen Suspension	1438	IBUP200L
+Ibuprofen	1439	IBUP400
+Ibuprofen	1440	IBUP600
+Ibutilide Fumarate	1441	IBUT1I
+Sodium Chloride (23.4%) Kit	1442	ICPKIT
+Idarubicin HCl	1443	IDAR10I
+Avonex	1444	IFBETA30I
+Ifosfamide	1445	IFEX1I
+Iloprost	1446	ILOP10INH
+Iloperidone	1447	ILOP2
+Iloperidone	1448	ILOP6
+Iloperidone	1449	ILOPDOSEPACK
+Gleevec	1450	IMAT100
+Imatinib	1451	IMAT200L
+Imatinib Mesylate	1452	IMAT400
+Imatinib Oral Suspension	1453	IMAT400L
+Isosorbide Mononitrate (Extended Release)	1454	IMDU30
+Isosorbide Mononitrate (Extended Release)	1455	IMDU60
+*NF* Imiglucerase	1456	IMIG400I
+Imipramine	1457	IMIP10
+Imipramine HCl	1458	IMIP25
+Imipramine HCl	1459	IMIP50
+Imipenem-Cilastatin	1460	IMIP500I
+imiquimod	1461	IMIQ5C
+Insulin	1462	IN73HI
+Clofarabine  *IND*	1463	INDCLOF20I
+Indinavir Sulfate	1464	INDI200
+Indinavir Sulfate	1465	INDI400
+Indigotindisulfonate Sodium	1466	INDIGO
+Indomethacin Sodium	1467	INDO1I
+Indomethacin	1468	INDO25
+Indomethacin	1469	INDO25L
+Indomethacin	1470	INDO50
+Indomethacin	1471	INDO50R
+Indomethacin XR	1472	INDO75XR
+Influenza Virus Vaccine	1473	INFL0.5LF
+Infliximab	1474	INFL100I
+Influenza Virus Vaccine	1475	INFV
+Insulin Human Regular	1476	INHRIV
+Insulin	1477	INLHI
+Insulin	1478	INNHI
+INO-1001 Study Drug  *IND*	1479	INOIND
+Insulin	1480	INRHI
+Insulin Regular Pork (Iletin II)	1481	INRPI
+NEO*IV*Insulin (Dilute)	1482	INSNEO
+NEO*IV*Insulin (Dilute)	1483	INSNEO1
+Insulin	1484	INSU100SYR
+Insulin Regular Human (U-500)	1485	INSU500I
+Insulin	1486	INSULIN
+Insulin	1487	INSULINCARB
+Insulin Pump	1488	INSUPUMP
+Interferon Alfa-2B	1489	INTE10I
+*NF* Interferon Alfacon-1	1490	INTE15I
+Eptifibatide	1491	INTE75I
+Interferon Alfacon-1	1492	INTE9I
+Eptifibatide	1493	INTEG20I
+Eptifibatide	1494	INTEGR
+Fat Emulsion 10%	1495	INTR10/250I
+Fat Emulsion 20%	1496	INTR20/250I
+Fat Emulsion 20%	1497	INTR20/500I
+Insulin	1498	INUHI
+Ivermectin	1499	INVE3
+Yodoxin	1500	IODO210
+*NF* Iopanoic Acid	1501	IOPA500
+Ipratropium Bromide Neb	1502	IPRA2H
+Ipratropium Bromide MDI	1503	IPRAPF
+Irbesartan	1504	IRBE150
+Avapro	1505	IRBE300
+Iron Dextran Complex	1506	IRON100I
+Iron Dextran (Test Dose)	1507	IRON25I
+Isosorbide Mononitrate	1508	ISMO10
+Isosorbide Mononitrate	1509	ISMO20
+Isoniazid	1510	ISON100
+Isoniazid	1511	ISON300
+Iso-Osmotic Sodium Chloride	1512	ISONACL
+Isoproterenol	1513	ISOP1I
+Isosorbide Dinitrate	1514	ISOS10
+Isosorbide Dinitrate	1515	ISOS2.5SL
+Isosorbide Dinitrate	1516	ISOS20
+Isosorbide Dinitrate SA	1517	ISOS40ER
+Isosorbide Dinitrate SA	1518	ISOS40SA
+Isosorbide Dinitrate	1519	ISOS5
+Isosorbide Dinitrate	1520	ISOS5SL
+Isradipine	1521	ISRA25
+Itraconazole	1522	ITRA100
+Itraconazole	1523	ITRA10L
+Bag	1524	IVIGBAG
+Bottle	1525	IVIGBTL
+Potassium Acetate	1526	KACE200I
+Lopinavir-Ritonavir (Oral Soln)	1527	KALE1L
+Lopinavir-Ritonavir	1528	KALE200/50
+Lopinavir-Ritonavir	1529	KALETRA
+Kaolin-Pectin	1530	KAOL60L,
+Kaolin/Pectin	1531	KAOP180L
+Kaopectate (bismuth subsalicy)	1532	KAOP228L
+Kaolin-Pectin	1533	KAOP30
+Potassium Acetate	1534	KASE40I
+Sodium Polystyrene Sulfonate	1535	KAYE15L
+Sodium Polystyrene Sulfonate	1536	KAYE15P
+Sodium Polystyrene Sulfonate	1537	KAYEX30R
+Sodium Polystyrene Sulfonate	1538	KAYEX50R
+Sodium Polystyrene Sulfonate	1539	KAYX30
+Sodium Polystyrene Sulfonate	1540	KAYX60
+Potassium Bicarbonate Eff	1541	KBIC25
+Kaopectate/Benadryl/Lido Visc.	1542	KBL120L
+Kaopectate/Benadryl/Lido Visc.	1543	KBL240L
+Potassium Chloride	1544	KCL10PM
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS	1545	KCL20/1000D51/2NS
+Potassium Chl 20 mEq / 1000 mL D5LR	1546	KCL20/1000D5LR
+Potassium Chl 20 mEq / 1000 mL D5NS	1547	KCL20/1000D5NS
+Potassium Chl 20 mEq / 1000 mL D5W	1548	KCL20/1000D5W
+Potassium Chl 20 mEq / 1000 mL NS	1549	KCL20/1000NS
+Potassium Chloride	1550	KCL20I
+Potassium Chloride	1551	KCL20P
+Potassium Chloride	1552	KCL20PM
+Potassium Chl 40 mEq / 1000 mL D5 1/2 NS	1553	KCL40/1000D51/2NS
+Potassium Chl 40 mEq / 1000 mL D5NS	1554	KCL40/1000D5NS
+Potassium Chl 40 mEq / 1000 mL D5W	1555	KCL40/1000D5W
+Potassium Chl 40 mEq / 1000 mL NS	1556	KCL40/1000NS
+Potassium Chloride	1557	KCL40I
+SW	1558	KCLBASE
+SW	1559	KCLBASE2
+Triamcinolone Acetonide Inj	1560	KENA40I
+Ketoconazole 2% 	1561	KET15C
+Ketamine	1562	KETA100/50NS
+Ketamine	1563	KETA10050
+Ketamine HCl	1564	KETA100SYR
+Ketamine HCl	1565	KETA200I
+Ketamine	1566	KETA500I
+Ketamine (For Intubation)	1567	KETA5I
+~<IND> Ketamine/Placebo Study Drug	1568	KETAIND
+Acular	1569	KETO.5ES
+Ketorolac	1570	KETO15I
+Ketoconazole	1571	KETO200
+Ketoconazole Shampoo	1572	KETO2SH
+Ketorolac	1573	KETR30I
+Potassium Iodide	1574	KIODIL
+Potassium Phosphate	1575	KPHO150I
+Potassium Phosphate	1576	KPHO45I
+Kytril	1577	KYTR1
+Labetalol HCl	1578	LABE100
+Labetalol	1579	LABE100I
+Labetalol HCl	1580	LABE200
+Lacosamide	1581	LACO100L
+Lacosamide	1582	LACO200
+Lacosamide *NF*	1583	LACO200I
+Lacosamide	1584	LACO50
+Lacosamide	1585	LACO50L
+Lacri-Lube Oint	1586	LACR7O
+Acidophilus	1587	LACT1
+Lactulose	1588	LACT1000R
+Lac-Hydrin	1589	LACT12T
+Lactulose Enema	1590	LACT250R
+Lactulose	1591	LACT30L
+Lactulose	1592	LACT500R
+LaMIVudine	1593	LAMI100
+LaMIVudine	1594	LAMI10L
+LaMIVudine	1595	LAMI150
+Terbinafine	1596	LAMI250
+LaMOTrigine	1597	LAMO100
+LaMOTrigine	1598	LAMO100BN
+LaMOTrigine	1599	LAMO100BRAND
+LaMICtal XR	1600	LAMO100XR
+Lamotrigine	1601	LAMO25
+LaMOTrigine	1602	LAMO25BRAND
+LaMOTrigine	1603	LAMO5
+Lansoprazole	1604	LANS15
+Lansoprazole	1605	LANS15L
+Lansoprazole	1606	LANS30
+Lansoprazole Oral Suspension	1607	LANS30L
+Lansoprazole Oral Disintegrating Tab	1608	LANS30ST
+Lanthanum	1609	LANT250
+Lanthanum	1610	LANT500
+Lanthanum	1611	LANT750
+Latanoprost 0.005% Ophth. Soln.	1612	LATA5OS
+Levocarnitine	1613	LCARN250
+Levocarnitine	1614	LCARN330
+Arava	1615	LEFL10
+Arava	1616	LEFL20
+Lepirudin	1617	LEPR50I
+Femara	1618	LETR2.5
+Leucovorin Calcium	1619	LEU100I
+Leucovorin Calcium	1620	LEUC100I
+Leucovorin Calcium	1621	LEUC25
+Leucovorin Calcium	1622	LEUC350I
+Leucovorin Calcium	1623	LEUC5
+Leuprolide Acetate	1624	LEUP22.5I
+Leuprolide Acetate	1625	LEUP3.75I
+Leuprolide Acetate	1626	LEUP45I
+Leuprolide Acetate	1627	LEUP75I
+Levoxyl	1628	LEV100
+Levofloxacin	1629	LEV250
+Levofloxacin	1630	LEV500
+Xopenex Neb	1631	LEVA0.63L
+LeVETiracetam Oral Solution	1632	LEVE1000L
+LeVETiracetam Oral Solution	1633	LEVE100L
+LeVETiracetam	1634	LEVE250T
+LeVETiracetam	1635	LEVE500
+LeVETiracetam	1636	LEVE500BN
+LeVETiracetam	1637	LEVE500I
+Plan B	1638	LEVO.75
+Levonorgestrel	1639	LEVO0.75
+Levonorgestrel	1640	LEVO1.5
+Levothyroxine Sodium	1641	LEVO100
+Levocarnitine	1642	LEVO1000I
+Levothyroxine Sodium	1643	LEVO100I
+Levothyroxine Sodium	1644	LEVO112
+Levothyroxine Sodium	1645	LEVO125
+Levothyroxine Sodium	1646	LEVO150
+Levothyroxine Sodium	1647	LEVO175
+Levothyroxine Sodium	1648	LEVO200
+Levothyroxine Sodium	1649	LEVO200I
+Levothyroxine Sodium	1650	LEVO200IV
+Levothyroxine Sodium	1651	LEVO25
+Levofloxacin	1652	LEVO250PM
+Levothyroxine Sodium	1653	LEVO300
+Norepinephrine	1654	LEVO4I
+Levothyroxine Sodium	1655	LEVO50
+Levofloxacin	1656	LEVO500PM
+Levoleucovorin	1657	LEVO50I
+Levobunolol Hcl 0.5%	1658	LEVO5ES
+Levothyroxine Sodium	1659	LEVO75
+Levofloxacin	1660	LEVO750
+Levofloxacin	1661	LEVO750PM
+Levothyroxine Sodium	1662	LEVO88
+Dextrose 5%	1663	LEVOBASE
+Dextrose 5%	1664	LEVOBASE2
+Dextrose 5%	1665	LEVOBASE3
+Levoxyl	1666	LEVOX125
+Hyoscyamine	1667	LEVS125
+Lidocaine Jelly 2% (Urojet)	1668	LID2J
+Lidocaine	1669	LID2PREMIX
+Lidocaine	1670	LIDE4500I
+Lidocaine 1.5%/Epinephrine P.F.	1671	LIDEPF1.530I
+Lidocaine 2%/Epinephrine P.F.	1672	LIDEPF220I
+Lidocaine 1%/Epinephrine 1:100,000	1673	LIDO/EPI30
+Lidocaine 0.5%	1674	LIDO0550I
+Lidocaine 1%	1675	LIDO1/10I
+Lidocaine 1%	1676	LIDO1/50I
+Lidocaine	1677	LIDO100S
+Lidocaine 1%	1678	LIDO120I
+Lidocaine 1%	1679	LIDO130I
+Lidocaine 1%	1680	LIDO15AM
+Lidocaine 1% (Buffered)	1681	LIDO1BUFF
+Lidocaine 1%	1682	LIDO1I
+Lidocaine Jelly 2%	1683	LIDO2/5J
+Lidocaine	1684	LIDO2000I
+Lidocaine Viscous 2%	1685	LIDO20L
+Lidocaine 2%	1686	LIDO210AM
+Lidocaine 2% P.f.	1687	LIDO210I
+Lidocaine 2%	1688	LIDO220I
+Lidocaine	1689	LIDO450I
+Lidocaine 4%	1690	LIDO45I
+Lidocaine	1691	LIDO4S
+Lidocaine 0.5%	1692	LIDO550I
+Lidocaine 5% Ointment	1693	LIDO5O
+Lidocaine 5% Ointment	1694	LIDO5O3.5
+Lidocaine 5% Patch	1695	LIDO5T
+D5W	1696	LIDOBASE
+*NF* Lidocaine Patch 5%	1697	LIDODERM
+Lidocaine 1% P.f.	1698	LIDOPF130I
+Lidocaine Viscous 2%	1699	LIDOVISC
+Lidocaine 1%	1700	LIDPF1I
+Lidocaine 2% P.f.	1701	LIDPF2I
+Fluocinonide 0.05% Cream	1702	LIDX15C
+Fluocinonide 0.05% Ointment	1703	LIDX15O
+Fluocinonide 0.05% Cream	1704	LIDX60C
+Fluocinonide 0.05% Ointment	1705	LIDX60O
+Lidocaine 2%/Epinephrine	1706	LIEP220I
+Lidocaine 0.5%/Epinephrine	1707	LIEP550I
+Lidocaine 1%/Epinephrine 1:100000	1708	LIEPI20I
+Lindane Lotion	1709	LIND1S
+Lindane Shampoo	1710	LIND1SH
+Linezolid	1711	LINE20L
+Linezolid	1712	LINE600
+Linezolid	1713	LINE600I
+D5W	1714	LINEBASE
+Liothyronine Sodium	1715	LIOT10I
+Liothyronine Sodium	1716	LIOT25
+Liothyronine Sodium	1717	LIOT50
+Lipid Emulsion 20%	1718	LIPID250I
+Intralipid/Liposyn III (Glass)	1719	LIPIDSTUDYG
+Intralipid/Liposyn III (Plastic)	1720	LIPIDSTUDYP
+Liposyn II  20%	1721	LIPO20200
+Vitamin E	1722	LIQUIDE
+Lisinopril	1723	LISI10
+Lisinopril	1724	LISI20
+Lisinopril	1725	LISI5
+Lithium Carbonate	1726	LITH150
+Lithium Carbonate	1727	LITH300C
+Lithium Carbonate CR (Eskalith)	1728	LITH450SA
+Lithium Citrate (Syrup)	1729	LITHI150L
+Lithium Carbonate	1730	LITHI300L
+Lithium Carbonate	1731	LITHI60L
+Lithium Carbonate SR (Lithobid)	1732	LITHOBID
+Diphenoxylate-Atropine	1733	LOMO
+Diphenoxylate-Atropine	1734	LOMO10ML
+Loperamide HCl	1735	LOPE1/7.5L
+Loperamide HCl	1736	LOPE1L
+Loperamide	1737	LOPE2
+Loperamide HCl	1738	LOPE2L
+Loperamide	1739	LOPER2L
+Lorazepam	1740	LORA1
+Loratadine	1741	LORA10
+Lorazepam	1742	LORA1L
+Lorazepam	1743	LORA20I
+Lorazepam	1744	LORA2I
+Lorazepam	1745	LORA2L
+Lorazepam	1746	LORA2PB
+Lorazepam	1747	LORA4L
+Lorazepam	1748	LORA5
+NEO*PO*Lorazepam Oral Concentrate	1749	LORA5L
+Lotrel	1750	LOTR5/20
+Lovastatin	1751	LOVA20
+Enoxaparin Sodium	1752	LOVE30AMP
+Enoxaparin Sodium	1753	LOVE40I
+Loxapine Succinate	1754	LOXA10
+Loxapine Succinate	1755	LOXA25
+Loxapine Succinate	1756	LOXA5
+Indapamide	1757	LOZ25
+Lactated Ringers	1758	LR1000
+Syringe (LR)	1759	LR5SYR
+Amitiza	1760	LUBI24
+Iodine Strong (Lugols)	1761	LUGOL
+Latuda	1762	LURA40
+Aluminum-Magnesium Hydrox.-Simethicone	1763	MAAL148
+Aluminum-Magnesium Hydroxide	1764	MAAL30BTL
+Aluminum-Magnesium Hydrox.-Simethicone	1765	MAAL30L
+Maalox/Lidocaine	1766	MAALLIDO120L
+Alum-Mag Hydroxide-Simethicone	1767	MAALX30L
+Maalox/Diphenhydramine/Lidocaine	1768	MABELI120
+Nitrofurantoin Monohyd (MacroBID)	1769	MACR100
+Sulfamylon	1770	MAFE5
+Sulfamylon	1771	MAFE8.5C
+Magnesium Sulfate (OB)	1772	MAG20/500
+Magnesium Sulfate	1773	MAG2PM
+Magnesium Sulfate (Latex Free)	1774	MAG2PMLF
+Magnesium Sulfate	1775	MAG2SYR
+Magnesium Sulfate	1776	MAG4PM
+Magnesium Citrate	1777	MAGCITL
+SW	1778	MAGGBASE
+Magnesium Sulfate	1779	MAGMEQ
+Magnesium Sulfate	1780	MAGMEQV
+Magnesium Oxide	1781	MAGN400
+Magnesium Sulfate	1782	MAGN50I
+Magnesium Oxide	1783	MAGO140
+Magnesium Sulfate	1784	MAGS1I
+Magnesium Sulfate	1785	MAGSUL20I
+Malarone	1786	MALA250/100
+Mannitol 20 %	1787	MANN100I
+Mannitol 20%	1788	MANN20PM
+Mannitol	1789	MANN25I
+Mannitol	1790	MANN25IV
+Soln.	1791	MANNBASE
+Maraviroc	1792	MARA150
+Maraviroc	1793	MARA300
+maribavir 100 mg or placebo tab	1794	MARIIND
+Dexamethasone Ophthalmic Soln 0.1%	1795	MAXI1ES
+Neomycin-Polymyxin-Dexameth Ophth. Oint	1796	MAXIEO
+Neomycin/Polymyxin/Dexameth Ophth Susp.	1797	MAXISES
+triampt	1798	MAXZ1
+MBL-HCV1 study med (*IND*)	1799	MBLHCV1IND
+Methylene Blue 1%	1800	MBLU10I
+Methylene Blue 1%	1801	MBLU1I
+Medium Chain Triglycerides	1802	MCT30
+NEO*PO*MCT Oil	1803	MCT4L
+Mebendazole	1804	MEBE100
+Mechlorethamine	1805	MECH10I
+Meclizine	1806	MECL125
+Meclizine HCl	1807	MECL25
+Medroxyprogesterone Acetate	1808	MEDR10
+Medroxyprogesterone Acetate	1809	MEDR150I
+MedroxyPROGESTERone Acetate	1810	MEDR25
+*NF* Cefoxitin Sodium	1811	MEFOX1I
+Megestrol Acetate	1812	MEGE20
+Megestrol Acetate	1813	MEGE200L
+Megestrol Acetate	1814	MEGE40
+mega	1815	MEGE400L
+Megestrol Acetate	1816	MEGE40L
+Megestr	1817	MEGE800L
+Meloxicam	1818	MELO7.5
+Melphalan	1819	MELP2
+Melphalan	1820	MELP50I
+Methenamine Mandelate	1821	MEMA1
+Namenda	1822	MEMA10
+Namenda	1823	MEMA5
+MENINGOcoccal Conj Vaccine (Menactra)	1824	MENA0.5I
+Meningococcal Vaccine	1825	MENI1SYR
+MENINGOcoccal Poly Vaccine (Menomune)	1826	MENI5I
+Meperidine PF	1827	MEPE100AMP
+Meperidine	1828	MEPE100I
+Meperidine	1829	MEPE25I
+Meperidine	1830	MEPE50
+Meperidine	1831	MEPE500PCA
+Meperidine	1832	MEPE50I
+Meperidine	1833	MEPE50L
+Mebaral	1834	MEPH100
+Mebaral	1835	MEPH32
+Mebaral	1836	MEPH50
+Mepivacaine 1%	1837	MEPI1I
+Mercaptopurine	1838	MERC50
+Meropenem	1839	MERO1I
+Meropenem	1840	MERO500I
+Meropenem Desensitization	1841	MERODESEN
+Mesalamine (Rectal)	1842	MESA1000R
+Mesalamine	1843	MESA400
+Mesalamine Enema	1844	MESA4R
+Mesalamine (Rectal)	1845	MESA5S
+Mesalamine Desensitization	1846	MESADESEN1
+Mesalamine Desensitization	1847	MESADESEN10
+Mesalamine Desensitization	1848	MESADESEN11
+Mesalamine Desensitization	1849	MESADESEN12
+Mesalamine Desensitization	1850	MESADESEN13
+Mesalamine Desensitization	1851	MESADESEN2
+Mesalamine Desensitization	1852	MESADESEN3
+Mesalamine Desensitization	1853	MESADESEN4
+Mesalamine Desensitization	1854	MESADESEN5
+Mesalamine Desensitization	1855	MESADESEN6
+Mesalamine Desensitization	1856	MESADESEN7
+Mesalamine Desensitization	1857	MESADESEN8
+Mesalamine Desensitization	1858	MESADESEN9
+Mesna	1859	MESN1I
+Mesna	1860	MESNA1I
+Skelaxin	1861	META800
+Psyllium	1862	METAMOR
+Methocarbamol	1863	METC500
+Methocarbamol	1864	METC750
+Methadone HCl	1865	METD10
+Methadone	1866	METD5
+Methylergonovine Maleate	1867	METE2I
+MetFORMIN (Glucophage)	1868	METF500
+Metformin XR	1869	METF500XR
+MetFORMIN XR (Glucophage XR)	1870	METF750XR
+MetFORMIN (Glucophage)	1871	METF850
+Methenamine Hippurate	1872	METH1
+Methimazole	1873	METH10
+Methotrexate	1874	METH1000I
+Methadone	1875	METH10I
+Methadone HCl	1876	METH10L
+Methadone	1877	METH10SY
+MethylPREDNISolone Sodium Succ	1878	METH125I
+Methylnaltrexone	1879	METH12I
+Methotrexate Sodium	1880	METH1I
+Methad	1881	METH1L
+Methylergonovine Maleate	1882	METH2
+Methotrexate Sodium	1883	METH20I
+Methylphenidate SR	1884	METH20SR
+Methotrexate Sodium P.F.	1885	METH250I
+Methadone HCl	1886	METH25PCA
+Methylprednisolone Na Succ	1887	METH2I
+CONCERTA	1888	METH36
+Methadone HCl	1889	METH40
+Methylprednisolone Sodium Succ	1890	METH40I
+MethylPREDNISolone Sod Succ 	1891	METH40IVPB
+Methimazole	1892	METH5
+Methyldopa	1893	METH500
+Methadone HCl	1894	METH50L
+Methylprednisolone	1895	METH8
+Methylene Blue	1896	METHB1I
+Methadone HCl	1897	METHCONC
+Metipranolol	1898	METI.3O
+Metolazone	1899	METL10
+Metolazone	1900	METL25
+Metolazone	1901	METL5
+Metoclopramide	1902	METO10
+Metoprolol	1903	METO100
+Metoclopramide	1904	METO10I
+Metoclopramide	1905	METO10L
+Metoclopramide	1906	METO10PB
+Metoprolol Tartrate	1907	METO25
+Metoprolol Tartrate	1908	METO50
+Metoprolol Tartrate	1909	METO5I
+Metoprolol	1910	METOSUSP
+Metoprolol Tartrate	1911	METOSUSP10L
+Methyldopa	1912	METP250
+MetronidAZOLE Oral Suspension	1913	METR1000L
+MetronidAZOLE Topical 1 % Gel	1914	METR1G
+MetRONIDAZOLE (FLagyl)	1915	METR250
+Metronidazole	1916	METR500
+Metronidazole	1917	METR500I
+MetRONIDAZOLE (FLagyl)	1918	METR500PM
+MetRONIDAZOLE (FLagyl)	1919	METR50L
+Metronidazole 0.75%	1920	METR75G
+NS	1921	METRBASE
+metroNIDAZOLE Desensitization	1922	METRODESN
+Metronidazole Gel 0.75%-Vaginal	1923	METRVAG70G
+metyrapone	1924	METYR250
+Methazolamide	1925	METZ50
+Mexiletine	1926	MEXI150
+Mexiletine	1927	MEXI200
+Mexiletine	1928	MEXI250
+Sterile Water	1929	MGBASE500I
+Micafungin	1930	MICA100I
+Micafungin	1931	MICA50I
+Miconazole 2% Cream	1932	MICO2C
+Miconazole Powder 2%	1933	MICO2P
+Miconazole Nitrate (Combo Pack)	1934	MICO3SUPP
+Miconazole Nitrate Vag Cream 2%	1935	MICO745C
+Miconazole Nitrate Vaginal	1936	MICODP
+Potassium Chloride	1937	MICROK10
+Midazolam	1938	MIDA100
+Midazolam	1939	MIDA2I
+Midazolam HCl	1940	MIDA5050
+Midazolam	1941	MIDA50I
+Midazolam HCl	1942	MIDA5I
+0.9% Sodium Chloride	1943	MIDAZBASE
+Midodrine	1944	MIDO25
+Midodrine	1945	MIDO5
+Midrin	1946	MIDRIN
+Silibinin (*IND*)	1947	MILKTH350I
+Milrinone	1948	MILR10I
+Milrinone	1949	MILR20PM
+Milrinone	1950	MILR5I
+D5W	1951	MILRBASE
+Mineral Oil	1952	MINE30L
+Minoxidil	1953	MINO10
+Minocycline HCl	1954	MINO100
+Minocycline HCl	1955	MINO100I
+Minocycline	1956	MINO50
+Minoxidil	1957	MINX25
+Miralax	1958	MIRA17
+Mirtazapine	1959	MIRT15
+Mirtazapine	1960	MIRT15SOL
+Mirtazapine	1961	MIRT30
+Misoprostol	1962	MISO100
+Misoprostol	1963	MISO200
+Misoprostol	1964	MISO25
+Mitomycin	1965	MITO20I
+Mitomycin	1966	MITO5I
+Mitoxantrone	1967	MITX20I
+Mivacurium Chloride	1968	MIVA20I
+Modafinil	1969	MODA100
+Provigil	1970	MODA200
+Moexipril	1971	MOEX15
+Moexipril HCl	1972	MOEX7.5
+Mobic	1973	MOLI5
+Milk of Magnesia	1974	MOM30L
+Miconazole Nitrate Vaginal	1975	MONI7C
+Montelukast Sodium	1976	MONT10
+Montelukast Sodium	1977	MONT5
+Morphine Sulfate (Oral Soln.)	1978	MOR10L
+Morphine Sulfate	1979	MORP0.5-4
+Morphine Sulfate	1980	MORP1-10
+Morphine Sulfate	1981	MORP1-4
+Morphine Sulfate	1982	MORP1-5
+Morphine Sulfate	1983	MORP1-6
+Morphine Sulfate	1984	MORP1-8
+Morphine Sulfate	1985	MORP1000I
+Morphine Sulfate	1986	MORP100PM
+Morphine Sulfate	1987	MORP10R
+Morphine Sulfate	1988	MORP10V
+Morphine Sulfate IR	1989	MORP15
+Morphine Sulfate	1990	MORP15I
+Morphine Sulfate	1991	MORP2-10
+Morphine Sulfate	1992	MORP2-4
+Morphine Sulfate	1993	MORP2-5
+Morphine Sulfate	1994	MORP2-6
+Morphine Sulfate	1995	MORP2-8
+Morphine Sulfate (Concentrated Oral Soln)	1996	MORP20/120L
+Morphine Sulfate (Concentrated Oral Soln)	1997	MORP20/30L
+Morphine Sulfate	1998	MORP2000I
+Morphine Sulfate	1999	MORP20R
+D5W	2000	MORP250D5W
+Morphine Sulfate	2001	MORP250I
+Morphine Sulfate	2002	MORP250PM
+Morphine Sulfate (PF)	2003	MORP25I
+Morphine Sulfate	2004	MORP2I
+Morphine Sulfate	2005	MORP2IV
+Morphine Sulfate IR	2006	MORP30
+Morphine Sulfate	2007	MORP4-10
+Morphine Sulfate	2008	MORP4-6
+Morphine Sulfate	2009	MORP4-8
+Morphine Sulfate	2010	MORP4I
+Morphine Sulfate	2011	MORP500I
+Morphine Sulfate	2012	MORP50PCA
+Morphine Sulfate	2013	MORP5I
+Morphine Sulfate (Concentrated Oral Soln)	2014	MORPCONC
+D5W	2015	MORPD5W
+Morphine Sulfate	2016	MORPH100
+Morphine Sulfate	2017	MORPIM
+Morphine Sulfate	2018	MORPITPACU
+MoviPrep	2019	MOVIKIT
+Vigamox	2020	MOXI0.5ES
+Moxifloxacin	2021	MOXI400
+*NF* Moxifloxacin	2022	MOXI400PM
+Methylprednisolone Sodium Succ	2023	MPRED0
+Methylprednisolone	2024	MPRED16
+Methylprednisolone Na Succ	2025	MPRED1I
+Methylprednisolone	2026	MPRED2
+Methylprednisolone	2027	MPRED4
+Methylprednisolone Acetate	2028	MPRED40I
+Methylprednisolone Na Succ.	2029	MPRED5I
+Methylprednisolone Acetate	2030	MPRED80I
+MethylPREDNISolone Sodium Succ	2031	MPREDDESEN
+Methylprednisolone Na Succ.	2032	MPREDSYR
+Morphine SR (MS Contin)	2033	MSCO100
+Morphine SR (MS Contin)	2034	MSCO15
+Morphine SR (MS Contin)	2035	MSCO30
+Morphine Sulfate SR	2036	MSCO60
+Methotrexate Sodium	2037	MTX1000I
+Methotrexate Sodium P.F.	2038	MTX200I
+Methotrexate	2039	MTX25
+Methotrexate Sodium	2040	MTX50I
+Acetylcysteine 20%	2041	MUCOM20
+Multivitamins	2042	MULT5L
+Multivitamin Liquid	2043	MULTNEO
+Mumps Skin Test	2044	MUMPS
+Muro 128	2045	MURO5O
+Multivitamins	2046	MVI
+Multivitamin IV	2047	MVI10I
+Multivitamin IV (Without Vit. K)	2048	MVINK10I
+Multivitamins W/minerals	2049	MVITH
+Nystatin-Triamcinolone Ointment	2050	MYC30O
+Mycophenolate Mofetil Suspension	2051	MYCO1000L
+Rifabutin	2052	MYCO150
+Mycophenolate Mofetil Suspension	2053	MYCO1500L
+Mycophenolate Mofetil	2054	MYCO200/1L
+Mycophenolate Mofetil	2055	MYCO250
+Mycophenolate Mofetil	2056	MYCO250BN
+cellcept	2057	MYCO250IND
+Mycophenolate Mofetil Suspension	2058	MYCO250L
+Nystatin-Triamcinolone Cream	2059	MYCO2C
+Mycophenolate Mofetil	2060	MYCO500I
+Mycophenolate Mofetil	2061	MYCO500SM
+Mycophenolate Mofetil	2062	MYCO500T
+Mycophenolate Mofetil Suspension	2063	MYCO750L
+Nystatin-Triamcinolone	2064	MYCOC
+MYCOPHENOLATE MOFETIL 250MG OR PLACEBO CAPSULES	2065	MYCOIND
+Mycophenolate 	2066	MYFO180
+Primidone	2067	MYSO250
+Sodium Acetate	2068	NAAC100I
+Sodium Acetate	2069	NAAC20I
+Sodium Bicarbonate	2070	NABC50I
+Sodium Bicarbonate	2071	NABC50IV
+Sodium Bicarbonate	2072	NABC50S
+Nabumetone	2073	NABU500
+Nabumetone	2074	NABU750
+N-Acetylcysteine Study Drug	2075	NACIND
+Sodium Chloride 0.45% Flush	2076	NACL0.45FLUSH
+Sodium Chloride 0.9%	2077	NACL09I
+Sodium Chloride	2078	NACL1
+Sodium Chloride 	2079	NACL23.4I
+SODium Chloride	2080	NACL234
+Sodium Chloride 3% (Hypertonic)	2081	NACL3IRR
+Sodium Chloride	2082	NACL4I
+Sodium Chloride 0.9%  Flush	2083	NACLFLUSH
+Nadolol	2084	NADO20
+Nadolol	2085	NADO40
+Nadolol	2086	NADO80
+Nafcillin Desensitization	2087	NAFC1000I
+Nafcillin	2088	NAFC1F
+Nafcillin	2089	NAFC1I
+Nafcillin	2090	NAFC2F
+Nafcillin	2091	NAFC2I
+Nalbuphine HCl	2092	NALB10I
+Naloxone HCl	2093	NALO1I
+Naloxone	2094	NALO2I
+Naloxone	2095	NALO2L
+Naloxone HCl	2096	NALO3L
+Naloxone	2097	NALO4I
+Naloxone	2098	NALO4ILF
+Naloxone	2099	NALO6L
+Naltrexone HCl	2100	NALT50
+NEO*IV*Ampicillin Sodium	2101	NAMP500I
+NEO*IV*Amphotericin B	2102	NAMP50N
+Sodium Phosphate	2103	NAPH15I
+Naphazoline-Pheniramine Ophth. Solution	2104	NAPH15O
+Naphazoline 0.1% Ophth	2105	NAPH1O
+Sodium Phosphate	2106	NAPH50I
+Sodium Phosphate	2107	NAPHOS3PO
+Naproxen	2108	NAPR250
+Naproxen	2109	NAPR375
+Amerge	2110	NARA2.5
+Nateglinide	2111	NATE60
+Sodium Thiosulfate	2112	NATH25I
+Hydroxypropyl Methylcellulose	2113	NATTTS
+Nelarabine (NF)	2114	NAVA250I
+VinORELbine (Navelbine)	2115	NAVEL10
+NEO*IV*Ceftriaxone	2116	NCEFTI
+NEO*IV*Cefotaxime	2117	NCEFXIV
+NEO*IV*Ceftazidime	2118	NCEFZIV
+NEO*IV*Clindamycin	2119	NCLINDIV
+5% Dextrose (Non DEPH)	2120	NDEPHBAG100
+Norethindrone-Estradiol	2121	NE1/35T
+Pentobarbital Sodium	2122	NEBU1000I
+Pentobarbital Sodium	2123	NEBU2500I
+Nefazodone HCl	2124	NEFA100
+Nefazodone HCl	2125	NEFA150
+Nelfinavir Mesylate	2126	NELF250
+Nelfinavir Mesylate	2127	NELF625
+NEO*PO*Acetazolamide (10mg/1ml)	2128	NEOACET
+NEO*PO*Acetazolamide (20mg/1ml)	2129	NEOACET2
+NEO*Aquaphor	2130	NEOAQUA
+Amoxicillin-Clavulanate Susp	2131	NEOAUGM50S
+NEO*PO*Bicitra	2132	NEOBIC
+NEO*PO*Calcium Carbonate Suspension	2133	NEOCACARB
+NEO*PO*Ca Glubionate 23mg Ca/ml	2134	NEOCAL
+NEO*PO*Captopril	2135	NEOCAP
+Neo*PO*Carbamazepine 20mg/mL	2136	NEOCARB200L
+NEO*PO*Cephalexin Suspension	2137	NEOCEPH
+NEO*PO*Chlorothiazide	2138	NEOCHL
+NEO*PO*Chloral Hydrate	2139	NEOCHLO
+NEO*IV*Chlorothiazide	2140	NEOCHLORO
+NEO*IV*Dexamethasone	2141	NEODEX
+NEO*PO*Dexamethasone	2142	NEODEXA
+Enoxaparin Sodium	2143	NEOENOX30I
+NEO*IV*Epoetin Alfa	2144	NEOEOP4I
+NEO*IV*Epoetin Alfa	2145	NEOEPO
+NEO*IV*Epoetin Alfa	2146	NEOEPO10I0
+NEO*SC*Epoetin Alfa	2147	NEOEPO3I
+NEO*PO*Ergocalciferol	2148	NEOERGO20L
+NEO*IV*Fat Emulsion	2149	NEOFAT
+NEO*PO*Ferrous Sulfate Elixer	2150	NEOFER
+NEO*PO*Fluconazole	2151	NEOFLUC
+NEO*PO*Fluconazole	2152	NEOFLUC10L
+Fluconazole	2153	NEOFLUCIV
+NEO*PO*Folic Acid	2154	NEOFOL
+NEO*PO*Furosemide (10mg/1ml)	2155	NEOFUR
+NEO*PO*Hydralazine	2156	NEOHYDP
+NEO*IV*Indomethacin Sodium	2157	NEOINDOM
+POTassium Chloride	2158	NEOKCL
+POTassium Chloride	2159	NEOKCL1.3L
+NEO*PO* Leucovorin (10mg/ml-10ml )	2160	NEOLEUCL
+NEO*IV*Levothyroxine	2161	NEOLEVO
+NEO*PO*Levothyroxine Suspension	2162	NEOLEVO5
+Loperamide	2163	NEOLOPE2L
+NEO*PO*Lorazepam Oral Concentrate	2164	NEOLORAZL
+Neomycin-Polymyxin-Bacitracin	2165	NEOM30O
+Neomycin Sulfate	2166	NEOM500
+Meropenem	2167	NEOMERO
+NEO*PO*Metoclopramide	2168	NEOMET30L
+NEO*IV*Metoclopramide	2169	NEOMETO
+NEO*PO*Midazolam	2170	NEOMID2.5
+NEO*PO*Morphine	2171	NEOMOR5
+NEO*NASAL*Phenylephrine 0.125%	2172	NEONEOIH
+Neo*Nasal*Sodium Chloride 0.9%	2173	NEONS
+NEO*PO*Nystatin Suspension	2174	NEONYST5L
+NEO*IV*Penicillin G Potassium	2175	NEOPENG2I
+NEO*PO*Phenobarbital	2176	NEOPHEN
+NEO*PO*Potassium Phosphate	2177	NEOPHOS2
+NEO*PO*Poly-VI-solution	2178	NEOPOLYVI
+PrednisoLONE Oral Solution	2179	NEOPRED2
+NEO*PO*Prednisolone Syrup	2180	NEOPREDL1
+NEO*PO*Propranolol	2181	NEOPROP4
+Cyclosporine Modified (Neoral)	2182	NEOR0
+cyclo	2183	NEOR100
+neoral	2184	NEOR100IND
+Cyclosporine Modified (Neoral)	2185	NEOR100L
+CycloSPORINE (Neoral) MODIFIED	2186	NEOR25
+neoral	2187	NEOR25IND
+NEO*PO*Ranitidine	2188	NEORAN
+Neostigmine	2189	NEOS0.5I
+Neomycin/Polymyxin B Sulfate	2190	NEOS1IRR
+Neomycin-Polymyxin-Bacitracin	2191	NEOSEO
+Neomycin-Polymyxin-Gramicidin	2192	NEOSES
+Neostigmine	2193	NEOSI
+NEO*PO*Spironolactone	2194	NEOSPIR
+NEO*PO*Spironolactone	2195	NEOSPIR4I
+Syringe (Neonatal)	2196	NEOSYR
+Syringe (Neonatal)	2197	NEOSYR1ML
+Syringe (Neonatal) *D10W*	2198	NEOSYRD10W
+Syringe (Neonatal)  *D12.5W*	2199	NEOSYRD12.5W
+Syringe (Neonatal) *D5W*	2200	NEOSYRD5W
+Syringe (Neonatal) *D5W*	2201	NEOSYRD5W50
+Syringe (Neonatal) *D7.5W*	2202	NEOSYRD7.5W
+Syringe (Neonatal) *NS*	2203	NEOSYRNS
+Syringe (Neonatal)	2204	NEOSYRSL
+Syringe (Neonatal) *SW*	2205	NEOSYRSW
+Pediatric Vitamins ADC	2206	NEOTRIVIT
+NEO*PO*Ursodiol	2207	NEOURS
+Vi-Daylin Multivitamin Drops	2208	NEOVIDAYLIN
+NEO*PO*Vitamin E Drops	2209	NEOVITE
+Neo*PO*Vitamin E TPGS 26.7 Unit/ml	2210	NEOVITE26.7L
+NEO*IV*Zidovudine	2211	NEOZDV
+Piperacillin-Tazobactam	2212	NEOZOSYN
+Nephrocaps	2213	NEPH1
+Nephramine 2.7%	2214	NEPH2.71000I
+NEO*IV*Erythromycin	2215	NERYIV
+Nesiritide	2216	NESI1.5I
+Neutra-Phos	2217	NEUT
+Sodium Bicarbonate 4.2% (2.4mEq)	2218	NEUT1I
+Nevirapine	2219	NEVI200
+Nevirapine Suspension	2220	NEVI50L
+Nexium	2221	NEWMED
+NEO*IV*Fat Emulsion	2222	NFAT4
+NEO*IV*Fat Emulsion	2223	NFAT5
+NEO*IV*Fat Emulsion	2224	NFAT6
+NEO*IV*Fat Emulsion	2225	NFAT8
+NEO*IV*Furosemide	2226	NFURON
+NEO*IV*Hydralazine	2227	NHYDRA
+Niacin	2228	NIAC100
+Niacin SR	2229	NIAC250SR
+Niaci	2230	NIAC50
+Niaspan	2231	NIAC500
+Niacin SR	2232	NIAC500SR
+NiCARdipine IV	2233	NICA2.5I
+Nicardipine HCl	2234	NICA20
+Nicardipine HCl	2235	NICA30
+NiCARdipine IV	2236	NICA40PM
+Niacin	2237	NICA500
+0.9% Sodium Chloride	2238	NICABAGNS
+0.83% Sodium Chloride	2239	NICABAGSODCHL
+Nicotine Patch	2240	NICO14P
+Nicotine Polacrilex	2241	NICO2
+Nicotine	2242	NICO21P
+Nicotine Lozenge	2243	NICO2L
+Nicotine Lozenge	2244	NICO4L
+Nicotine Patch	2245	NICO7P
+NIFEdipine	2246	NIFE10
+NIFEdipine	2247	NIFE20
+Polysaccharide Iron Complex	2248	NIFR150
+Procardia XL	2249	NIFXL30
+Procardia XL	2250	NIFXL60
+Nifedipine	2251	NIFXL90
+Nimodipine	2252	NIMO30
+Nitazoxanide	2253	NITA500
+Nitroprusside Sodium	2254	NITP50I
+Nitroglycerin	2255	NITR02O
+Nitrofurantoin (Macrodantin)	2256	NITR100
+Nitroglycerin	2257	NITR20SYR
+Nitrofurantoin	2258	NITR25
+Nitrofurantoin Suspension	2259	NITR30L
+Nitrofurantoin (Macrodantin)	2260	NITR50
+Nitroglycerin	2261	NITR50I
+Nitroglycerin Oint. 2%	2262	NITRO1O
+NEO*IV*Morphine Sulfate	2263	NMORP
+norethindrone (contraceptive)	2264	NORE.35
+Norepinephrine Bitartrate	2265	NORE1600SYR
+NORepinephrine	2266	NORE8/250
+Norepinephrine	2267	NORE800SYR
+5% Dextrose	2268	NOREBASE
+Microgestin 1/20 (21)	2269	NORESTFE
+Normocarb	2270	NORMOCARB
+Normocarb Dialysate	2271	NORMOCARB2
+Nortriptyline	2272	NORT10
+Nortriptyline	2273	NORT10L
+Nortriptyline	2274	NORT25
+Nortriptyline	2275	NORT50
+Insulin	2276	NOVO100I
+Insulin Aspart *NF* (for Insulin PUMP)	2277	NOVO100P
+Insulin	2278	NOVO70/30
+Insulin	2279	NOVONPH100I
+Insulin	2280	NOVOR100I
+NEO*IV*Oxacillin	2281	NOXAI
+NEO*IV*Penicillin G Potassium	2282	NPENI
+NEO*IV*Phenobarbital	2283	NPHEN10I
+0.9% Sodium Chloride (Mini Bag Plus)	2284	NS/MBP100I
+NS (Mini Bag Plus)	2285	NS/MBP50I
+NS  W/  0.1% Albumin	2286	NS0.1ALB250I
+0.9% Sodium Chloride	2287	NS100
+0.9% Sodium Chloride	2288	NS1000
+NS (IRRIGATION BOTTLE)	2289	NS1000IBTL
+0.9% Sodium Chloride	2290	NS1000OXYT
+0.9% Sodium Chloride	2291	NS100CG
+NS (Glass Bottle)	2292	NS100G
+0.9% Sodium Chloride	2293	NS100H
+NS (Intrathecal Bag)	2294	NS100IT
+Sodium Chloride	2295	NS10I
+NS (Syringe)	2296	NS10MLS
+NS	2297	NS150
+NS	2298	NS2000
+Syringe (0.9% Sodium Chloride)	2299	NS20SYR
+NS	2300	NS25
+NS	2301	NS250
+NS (Irrigation Bottle)	2302	NS250B
+NS (Glass Bottle)	2303	NS250G
+NS	2304	NS3000
+0.45% Sodium Chloride	2305	NS451000
+1/2 NS	2306	NS45500
+NS	2307	NS50
+0.9% Sodium Chloride	2308	NS500
+Sodium Chloride 0.9 % or No Intervention	2309	NS500IND
+NS Syringe (Intrapleural)	2310	NS50SYRPL
+Syringe (NS)	2311	NS60SYR
+NS (Syringe)	2312	NSSYR
+0.9% Sodium Chloride P.F. (Syringe)	2313	NSSYR10
+Nitroglycerin	2314	NTG100I
+Nitroglycerin	2315	NTG100PB
+Nitroglycerin	2316	NTG100PM
+Nitroglycerin Patch	2317	NTG10P
+Nitroglycerin Patch	2318	NTG15P
+Nitroglycerin	2319	NTG25
+Nitroglycerin Patch	2320	NTG25P
+Nitroglycerin Oint. 2%	2321	NTG2O
+Nitroglycerin SL	2322	NTG3SL
+Nitroglycerin SL	2323	NTG4SL
+Nitroglycerin Patch	2324	NTG5P
+Nitroglycerin SR	2325	NTG65
+D5W	2326	NTGBASE
+NEO*IV*Parenteral Nutrition	2327	NTPN
+NEO*IV*Vancomycin	2328	NVAN500I
+Nystatin Powder	2329	NYST100P
+Nystatin	2330	NYST100V
+Nystatin	2331	NYST500T
+Nystatin Oral Susp.	2332	NYST5L
+Nystatin Oral Suspension	2333	NYST60LSM
+Nystatin Cream	2334	NYSTC
+Nystatin Ointment	2335	NYSTO
+Octagam	2336	OCTA10I
+Octreotide Acetate	2337	OCTR0.1I
+Octreotide Acetate	2338	OCTR1000I
+Octreotide Acetate	2339	OCTR100I
+Octreotide Acetate	2340	OCTR20I
+Octreotide Acetate	2341	OCTR30I
+Octreotide Acetate	2342	OCTR500I
+Octreotide Acetate	2343	OCTR500S
+Octreotide Acetate	2344	OCTR50I
+Floxin	2345	OFLO0.3E
+Ofloxacin	2346	OFLO0.3ES
+Muromonab-CD3	2347	OKT35I
+OLANZapine	2348	OLAN0.25L
+Olanzapine	2349	OLAN0.5L
+Olanzapine	2350	OLAN10
+Olanzapine	2351	OLAN10I
+Olanzapine (Disintegrating Tablet)	2352	OLAN10ODT
+OLANZapine	2353	OLAN2.5
+Olanzapine	2354	OLAN5
+Olanzapine (Disintegrating Tablet)	2355	OLAN5DTB
+Olanzapine	2356	OLAN7.5
+Benicar	2357	OLME10
+olmesartan	2358	OLME20
+Patanol	2359	OLOP.1ES
+Dipentum	2360	OLSA250
+Omeprazole	2361	OMEP20
+Omeprazole	2362	OMEP20S
+Prilosec	2363	OMEP40
+Neo*PO*Omeprazole	2364	OMEPNEO
+Ondansetron	2365	ONDA2SYR
+Ondansetron	2366	ONDA4
+Ondansetron	2367	ONDA40I
+Ondansetron	2368	ONDA4I
+Ondansetron ODT	2369	ONDA4ODT
+Ondansetron ODT	2370	ONDA8ODT
+Ondansetron	2371	ONDAN4I
+Orange Oil	2372	ORANGE
+Orabase w/ Benzocaine Paste	2373	ORBE5T
+Oseltamivir	2374	OSEL12L
+Oseltamivir	2375	OSEL30
+Oseltamivir	2376	OSEL6L
+Oseltamivir	2377	OSEL75
+Oxacillin	2378	OXA10I
+Oxacillin	2379	OXA2I
+Oxcarbazepine	2380	OXAC150
+Oxacillin	2381	OXAC1F
+Oxacillin	2382	OXAC1I
+Oxcarbazepine	2383	OXAC300
+Oxacillin Desensitization	2384	OXACDESEN
+Oxaliplatin	2385	OXAL100I
+Oxaliplatin	2386	OXAL50I
+Oxaliplatin Desensitization	2387	OXALDESEN
+Oxandrolone	2388	OXAN25
+Oxazepam	2389	OXAZ10
+Oxazepam	2390	OXAZ15
+Oxcarbazepine	2391	OXCA600
+Oxcarbazepine	2392	OXCA60L
+Ditropan XL	2393	OXYB10XL
+Oxybutynin	2394	OXYB5
+Oxycodone (Sustained Release)	2395	OXYC10
+Oxycodone (Sustained Release)	2396	OXYC20
+Oxycodone (Sustained Release)	2397	OXYC40
+OxycoDONE (Immediate Release) 	2398	OXYC5
+OxycoDONE Liquid	2399	OXYCO5L
+OxycoDONE (Immediate Release) 	2400	OXYIR15
+Oxymetazoline (Half Strength)	2401	OXYM0.25
+Oxymetazoline HCl	2402	OXYM15
+Oxymorphone HCl	2403	OXYM1I
+Oxytocin	2404	OXYT10I
+Oxytocin	2405	OXYT20/1000
+PACLItaxel (TaxOL)	2406	PACL300I
+PACLItaxel (TaxOL)	2407	PACL300NO
+Palivizumab	2408	PALI100I
+Paliperidone ER	2409	PALI3
+Paliperidone ER	2410	PALI6
+NEO*IM*Palivizumab	2411	PALINEO
+Palivizumab	2412	PALINEO50I
+Pamidronate	2413	PAMI30I
+Pamidronate	2414	PAMI90I
+Pancuronium Bromide	2415	PANC10I
+Pancrease MT 16	2416	PANC16
+Pancrelipase 5000	2417	PANC5000
+Pancrease	2418	PANCEC
+Pancuronium Bromide (NICU)	2419	PANCNEO
+Soln.	2420	PANCSOLN
+Pantoprazole	2421	PANT40
+Pantoprazole	2422	PANT40I
+Pantoprazole	2423	PANT40IVPB
+Pantoprazole	2424	PANT40SM
+Papaverine HCl	2425	PAPA150
+Papaverine HCl	2426	PAPA30I
+ACCUZYME	2427	PAPA30O
+Papain 2.5 % Solution	2428	PAPAIN2
+Parcopa	2429	PARC25/100
+Parecoxib/Placebo	2430	PAREIND2
+Paricalcitol	2431	PARI5I
+Paroxetine HCl	2432	PARO10
+Paroxetine	2433	PARO10L
+Paxil CR	2434	PARO12.5CR
+Paroxetine HCl	2435	PARO20
+Paromomycin	2436	PARO250
+Paxil CR	2437	PARO25CR
+Paroxetine HCl	2438	PARO30
+PHENObarbital	2439	PB15
+NEO*IV*Phenobarbital	2440	PB30EL
+Phenobarbital	2441	PB60I
+Syringe (PCA)	2442	PCASYR
+Penicillin V Potassium	2443	PCN250S
+Penicillin G Benzathine	2444	PCNGB240I
+Penicillin G Benzathine	2445	PCNGB600I
+NEO*IV*Digoxin	2446	PEDDIG0.1
+DTaP-HepB-IPV Combined	2447	PEDIVAC0.5I
+*NF* Pegaspargase	2448	PEGA75I
+Peginterferon Alfa-2a	2449	PEGI180I
+Peg-Intron	2450	PEGINTE150I
+Pemetrexed	2451	PEME500I
+Pemoline	2452	PEMO375
+Penicillin G K Desensitization	2453	PENDESEN
+Penicillin G Potassium	2454	PENGK20I
+Penicillin G Potassium	2455	PENGK3I
+Penicillin G Potassium	2456	PENGK5I
+Penicillin G Potassium	2457	PENI1F
+Penicillamine	2458	PENI250
+Penicillin G Potassium	2459	PENI2F
+Elmiron	2460	PENT100C
+*NF* Pentostatin	2461	PENT10I
+Mesalamine	2462	PENT250
+Pentamidine-Inhalation	2463	PENT300H
+Pentamidine Isethionate	2464	PENT300I
+Pentoxifylline	2465	PENT400
+Pentobarbital Sodium	2466	PENT50S
+Penicillin V Potassium	2467	PENV250
+Penicillin V Potassium	2468	PENV500
+Famotidine	2469	PEPC20
+Famotidine (IV)	2470	PEPC20I
+Peppermint Oil	2471	PEPP1
+Bismuth Subsalicylate	2472	PEPT240L
+Bismuth Subsalicylate	2473	PEPTO30
+Bismuth Subsalicylate Chewable	2474	PEPTOBIS
+Peramivir	2475	PERA200I
+Oxycodone-Acetaminophen	2476	PERC
+Oxycodone-Acetaminophen Elixir	2477	PERCBULKL
+Pergolide Mesylate	2478	PERG25
+Docusate Sodium-Casanthranol	2479	PERI
+Peridex	2480	PERI12L
+PER	2481	PERIC15L
+Pergolide Mesylate	2482	PERM1
+permethrin	2483	PERM5C
+Pergolide Mesylate	2484	PERM5T
+Perphenazine	2485	PERP2
+Perphenazine	2486	PERP4
+Perphenazine	2487	PERP5I
+Perphenazine	2488	PERP8
+Perphenazine	2489	PERP8L
+*IND* Pexelizumab/Placebo	2490	PEXEIND
+PFNS (Syringe)	2491	PFNS2MLSYR
+NEO*IM*Penicillin G Benzathine	2492	PGBNEO6I
+Fleet Phospho-Soda	2493	PHDOSA90L
+Phenoxybenzamine HCl	2494	PHEN10
+Phenazopyridine HCl	2495	PHEN100
+Phenytoin Sodium	2496	PHEN100I
+Phenytoin Sodium	2497	PHEN100IVPB
+Phenyleprhine Ophth Soln 10%	2498	PHEN10ES
+Phenylephrine	2499	PHEN10I
+Phenylephrine	2500	PHEN12SYR
+PHENObarbital	2501	PHEN130I
+Phenelzine Sulfate	2502	PHEN15
+Phenylephrine HCl 1%	2503	PHEN1N
+Phenylephrine 2.5 % Ophth Soln	2504	PHEN2.5O
+Phenazopyridine HCl	2505	PHEN200
+Phenytoin Sodium	2506	PHEN250I
+Phenylephrine 2.5 % Ophth Soln	2507	PHEN25ES
+Neo-Synephrine	2508	PHEN25N
+PHENObarbital	2509	PHEN30
+Phenytoin	2510	PHEN50
+Phenylephrine	2511	PHEN50I
+Phentolamine Mesylate	2512	PHEN5I
+Phenylephrine  0.5% Nasal Spray	2513	PHEN5N
+Phenobarbital	2514	PHEN60
+PHENObarbital	2515	PHEN65I
+Phenobarbital	2516	PHENO100
+Phenytoin	2517	PHENY100
+Phenytoin (Suspension)	2518	PHENY100L
+Phosphorus	2519	PHOS250
+Physostigmine Salicylate	2520	PHYS2I
+Phytonadione	2521	PHYT10I
+Phytonadione	2522	PHYT10IVPB
+NEO*SC*Phytonadione	2523	PHYT1I
+Phytonadione	2524	PHYT1L
+Phytonadione	2525	PHYT2L
+Phytonadione	2526	PHYT3L
+Phytonadione	2527	PHYT4L
+Phytonadione	2528	PHYT5
+Pilocarpine 1%	2529	PILO1ES
+Pilocarpine 4%	2530	PILO1O
+Pilocarpine 2%	2531	PILO2ES
+Pilocarpine 4%	2532	PILO4ES
+Pilocarpine HCl	2533	PILO4G
+Salagen	2534	PILO5
+Pilocarpine 0.5%	2535	PILO5ES
+Pilocarpine 6%	2536	PILO6ES
+Orap	2537	PIMO2
+Pindolol	2538	PIND5
+Pioglitazone HCl	2539	PIOG15
+Pioglitazone HCl	2540	PIOG30
+Pioglitazone HCl	2541	PIOG45
+Piperacillin Sodium	2542	PIPE3I
+Maxair Autohaler	2543	PIRB0.2H
+Piroxicam	2544	PIRO10
+Piroxicam	2545	PIRO20
+PlasmaLyte	2546	PLAS1000I
+NEO*IM*Pneumococcal 7-Valent	2547	PNEU.5I
+Pneumococcal Vac Polyvalent	2548	PNEU25I
+Pneumococcal Vac Polyvalent	2549	PNEU5I
+NEO*SC*Polio Vaccine (Inactive)	2550	POLIOV
+Bacitracin-Polymyxin Ointment	2551	POLY15O
+Bacitracin-Polymyxin Ointment	2552	POLY30O
+Polymyxin B Sulfate	2553	POLYB1MUL
+Polymyxin B Sulfate	2554	POLYCAP
+Bacitracin/Polymyxin B Sulfate Opht. Oint	2555	POLYEO
+Porfimer Sodium	2556	PORF75I
+Posaconazole Suspension	2557	POSA200L
+Posaconazole	2558	POSA40L
+Potassium Chloride	2559	POTA10PM
+Potassium Chloride	2560	POTA20
+Povidone Iodine 10% Ointment	2561	POVI30O
+Tuberculin Protein	2562	PPD
+Pralidoxime Chloride	2563	PRAL1I
+Mirapex	2564	PRAM..5
+Mirapex	2565	PRAM.25
+Mirapex	2566	PRAM0.5
+Mirapex	2567	PRAM1
+Pramipexole	2568	PRAM125
+Pramosone	2569	PRAM1C
+Pramoxine-Menthol-Petrolatum	2570	PRAM1L
+Prasugrel	2571	PRAS10
+Pravastatin	2572	PRAV10
+Pravastatin	2573	PRAV10L
+Pravastatin	2574	PRAV20
+Prazosin HCl	2575	PRAZ1
+Prazosin HCl	2576	PRAZ2
+Prazosin	2577	PRAZ5
+praziquantel	2578	PRAZ600
+PredniSONE	2579	PRED0
+Prednisone	2580	PRED1
+Prednisone	2581	PRED10
+Prednisolone Acetate 0.12% Ophth. Susp.	2582	PRED125ES
+PrednisoLONE Acetate 1% Ophth. Susp.	2583	PRED1ES
+Prednisone	2584	PRED20
+PredniSONE	2585	PRED25
+Prednisone	2586	PRED5
+PredniSONE	2587	PRED50
+PredniSONE	2588	PRED5L
+PredniSONE	2589	PRED5SM
+prednisoLONE	2590	PREDN5L
+Pregabalin	2591	PREG25
+Pregabalin	2592	PREG5L
+Pregabalin	2593	PREG75
+Pneumococcal 7-Valent	2594	PREV.5I
+Sodium Fluoride (Dental Gel)	2595	PREV60TP
+PrimiDONE	2596	PRIM
+Milrinone Lactate	2597	PRIM1I
+Primidone	2598	PRIM250
+Primaquine Phosphate	2599	PRIM263
+Primidone	2600	PRIM50
+Prismasate (B22 K4)	2601	PRISMAB22K45000
+Prismasate (B32 K2)	2602	PRISMAB32K25000
+Prismasate (Ca 3.5)	2603	PRISMACA5000
+Prismasate (K 2)	2604	PRISMAK5000
+PrismaSol  (B32 K0)	2605	PRISMASOLK32
+Privigen	2606	PRIV5I
+Albuterol Inhaler	2607	PROAIR8.5H
+Probenecid	2608	PROB500
+Prochlorperazine Maleate	2609	PROC10
+Procainamide HCl	2610	PROC100I
+Prochlorperazine	2611	PROC10I
+Procainamide HCl	2612	PROC250
+Prochlorperazine	2613	PROC25R
+Procainamide HCl	2614	PROC375
+Prochlorperazine	2615	PROC5
+Procarbazine HCl	2616	PROC50
+Procainamide HCl	2617	PROC500
+Procainamide HCl	2618	PROC500I
+Procainamide HCl	2619	PROC500SR
+Prochlorperazine Edisylate	2620	PROC5L
+Procainamide SR	2621	PROC750SR
+Profilnine SD	2622	PROFVIAL
+Progesterone	2623	PROG100
+Crinone	2624	PROG8G
+Promethazine HCl	2625	PROM125
+Promethazine	2626	PROM25
+Promethazine	2627	PROM25I
+Promethazine HCl	2628	PROM25R
+Promethazine	2629	PROM480L
+Proparacaine HCl 0.5% Opth.	2630	PROP05ES
+Propranolol HCl	2631	PROP10
+Propofol	2632	PROP100IG
+Propranolol LA	2633	PROP120
+Propantheline Bromide	2634	PROP15
+Propafenone HCl	2635	PROP150
+Propranolol HCl	2636	PROP1I
+Propranolol	2637	PROP1PB
+Propranolol HCl	2638	PROP20
+Propofol (Diprivan)	2639	PROP200I
+Propofol	2640	PROP200IG
+Propranolol Oral Solution	2641	PROP20L
+Propafenone HCl	2642	PROP225
+Propranolol HCl	2643	PROP40
+Propylthiouracil	2644	PROP50
+Propofol (Diprivan)	2645	PROP500I
+Propofol	2646	PROP500IG
+Propranolol LA	2647	PROP60
+Propranolol HCl	2648	PROP80
+Propranolol LA	2649	PROPLA80
+Protamine Sulfate	2650	PROT250I
+Protamine Sulfate	2651	PROT50I
+Fluoxetine HCl	2652	PROZ10
+Fluoxetine	2653	PROZ20
+Fluoxetine	2654	PROZ20L
+Pseudoephedrine HCl	2655	PSEU30
+Pseudoephedrine HCl	2656	PSEUD30L
+Patient Specific Narc Drip	2657	PSND
+Psyllium Wafer	2658	PSYL1W
+Pulmozyme	2659	PULMOZYME
+Pyrazinamide	2660	PYRA500
+Pyrimethamine Desensitization	2661	PYRI1/100L
+Pyrimethamine Desensitization	2662	PYRI10/100L
+Pyridoxine HCl	2663	PYRI100
+Pyridoxine	2664	PYRI100I
+Pyridostigmine Bromide	2665	PYRI10I
+Pyridostigmine Bromide	2666	PYRI180
+Pyridoxine HCl	2667	PYRI25
+Pyridoxine HCl	2668	PYRI50
+Pyrimethamine Desensitization	2669	PYRI50/25L
+Pyridostigmine Bromide	2670	PYRI60
+Pyridostigmine Bromide	2671	PYRI60L
+Pyridostigmine Bromide	2672	PYRI60SYR
+Quetiapine Fumarate	2673	QUET100
+Quetiapine Fumarate	2674	QUET12.5HT
+Quetiapine Fumarate	2675	QUET200
+Quetiapine extended-release	2676	QUET200XR
+Quetiapine Fumarate	2677	QUET25
+Quetiapine Fumarate	2678	QUET25L
+Quetiapine extended-release	2679	QUET300XR
+Quetiapine Fumarate	2680	QUET50
+Quetiapine extended-release	2681	QUET50XR
+Quetiapine Fumarate	2682	QUET6.25QT
+quiniDINE Gluconate E.R.	2683	QUIG324
+Quinapril	2684	QUIN10
+Quinapril	2685	QUIN20
+Quinidine Sulfate	2686	QUIN200
+Quinine Sulfate	2687	QUIN260
+quiniDINE Sulfate	2688	QUIN300
+Quinine Sulfate	2689	QUIN324
+Quinine Sulfate	2690	QUIN325
+Quinapril	2691	QUIN40
+Quinapril	2692	QUIN5
+quiniDINE Gluconate	2693	QUIN800I
+Rabies Immune Globulin	2694	RABI10I
+Rabies Immune Globulin	2695	RABI2I
+Rabies Vaccine	2696	RABVAC
+Racepinephrine	2697	RACE0.5H
+Evista	2698	RALO60
+Raltegravir	2699	RALT400
+Raltegravir 400mg tablet	2700	RALT400IND
+Ramipril	2701	RAMI125
+Ramipril	2702	RAMI2.5
+Ramipril	2703	RAMI5
+Ranitidine	2704	RANI150
+Ranitidine	2705	RANI150I
+Ranitidine	2706	RANI150L
+ranolazine	2707	RANOL500
+rasagiline	2708	RASA0.5
+Rasburicase	2709	RASB1.5I
+Artificial Tears	2710	REFRESH
+Remifentanil HCl	2711	REMI1I
+Renacidin	2712	RENA500IR
+sevelamer CARBONATE	2713	RENV800
+Abciximab	2714	REOPI
+Repaglinide	2715	REPA0.5
+Repaglinide	2716	REPA1
+Repaglinide	2717	REPA2
+Zidovudine	2718	RETR200I
+regular insulin	2719	RHIIND
+Rhinocort	2720	RHINOC
+Ribavirin *NF*	2721	RIBA1I
+Ribavirin	2722	RIBA200
+Ribavirin Aerosol	2723	RIBAV6I
+Riboflavin	2724	RIBO50
+Rifampin	2725	RIFA150
+Rifaximin	2726	RIFA200
+Rifampin	2727	RIFA300
+Rifaximin	2728	RIFA550
+Rifampin	2729	RIFA600I
+Rifampin	2730	RIFANEO60L
+Riluzole	2731	RILU50
+Rimantadine	2732	RIMA100
+Risperidone	2733	RIS1L
+Actonel	2734	RISE35
+Risperidone	2735	RISP025
+Risperidone	2736	RISP05
+Risperidone	2737	RISP1
+Risperidone	2738	RISP1L
+Risperidone	2739	RISP2
+Risperidone Long Acting Injection	2740	RISP25I
+Risperidone	2741	RISP3
+Risperidone Long Acting Injection	2742	RISP37.5
+Risperidone Long Acting Injection	2743	RISP50I
+Risperidone (Disintegrating Tablet)	2744	RISPM0.5
+Risperidone (Disintegrating Tablet)	2745	RISPM1
+Methylphenidate	2746	RITA10
+Methylphenidate HCl	2747	RITA5
+Ritonavir	2748	RITO100
+RiTONAvir	2749	RITO100T
+Ritonavir	2750	RITO80L
+Rituximab	2751	RITU100I
+~<IND> Rituximab	2752	RITU100IND
+Rituximab Desensitization	2753	RITU500DESEN
+Rituximab	2754	RITU500I
+Rivaroxaban	2755	RIVA10
+Exelon	2756	RIVA15
+Exelon	2757	RIVA2L
+Rivastigmine	2758	RIVA3
+Rivaroxaban	2759	RIVAR15
+Maxalt-MLT	2760	RIZA10
+rocuronium	2761	ROCU100I
+Rocuronium	2762	ROCU50I
+Vioxx	2763	ROFE12.5
+Vioxx	2764	ROFE25
+Interferon Alfa 2A	2765	ROFE3I
+Romiplostim	2766	ROMI250I
+Ropivacaine 0.2%	2767	ROPI0.2/100I
+Ropivacaine 0.2%	2768	ROPI0.2CADDB
+Ropinirole HCl	2769	ROPI1
+Ropinirole HCl	2770	ROPI2
+Ropinirole HCl	2771	ROPI25
+Ropinirole HCl	2772	ROPI5
+Rosiglitazone Maleate	2773	ROSI2
+Rosiglitazone Maleate	2774	ROSI4
+Rosiglitazone Maleate	2775	ROSI8
+Rosuvastatin Calcium	2776	ROSU10
+Rosuvastatin Calcium	2777	ROSU20
+Rosuvastatin Calcium	2778	ROSU5
+Oxycodone-Acetaminophen Elixir	2779	ROXIOS
+Rufinamide	2780	RUFI200
+NS	2781	SALINE
+Salmeterol	2782	SALM13IH
+Salmeterol Xinafoate Diskus (50 mcg)	2783	SALM50D
+Salmeterol	2784	SALM65H
+Salsalate	2785	SALS500T
+Salsalate	2786	SALS750
+Saquinavir (Invirase) Cap	2787	SAQUIN200
+Sargramostim	2788	SARG250I
+Sargramostim	2789	SARG500I
+Sarna Lotion	2790	SARNL
+Scopolamine 0.25% Ophth Soln	2791	SCOP.25ES
+Scopolamine Patch	2792	SCOP15P
+Scopolamine HBr	2793	SCOP4I
+Secretin	2794	SECR16I
+Selenium Sulfide	2795	SEL25T
+Selenious Acid	2796	SELE40I
+Selegiline HCl	2797	SELE5
+5 Syringes (NS)	2798	SEND5SYR
+6 Syringes (NS)	2799	SEND6SYR
+Senna	2800	SENN15L
+Senna	2801	SENN187
+Senna	2802	SENN5L
+Senna	2803	SENOKOTS
+Ketamine Study Drug (*IND*)	2804	SEPKET10I
+Lorazepam 2mg Syringe	2805	SEPLORA2I
+Sertraline	2806	SERT100
+Sertraline	2807	SERT25
+Sertraline HCl	2808	SERT50
+Sevelamer	2809	SEVE400
+Sevelamer	2810	SEVE403
+sevelamer HYDROCHLORIDE	2811	SEVE800
+Sildenafil	2812	SILD20
+Sildenafil Citrate	2813	SILD25
+*NF* Sildenafil Citrate	2814	SILD50
+Silver Sulfadiazine 1% Cream	2815	SILV1C
+Silver Nitrate Applicator	2816	SILV1T
+Simethicone	2817	SIME40L
+Simethicone	2818	SIME80
+*NF* Basiliximab	2819	SIMU20I
+Simvastatin	2820	SIMV10
+Simvastatin	2821	SIMV40
+Simvastatin or placebo	2822	SIMVIND
+Carbidopa-Levodopa CR (50-200)	2823	SINC50200
+Sincalide	2824	SINC5I
+Carbidopa-Levodopa (10-100)	2825	SINE10100
+Carbidopa-Levodopa CR (25-100)	2826	SINE25100
+Carbidopa-Levodopa (25-250)	2827	SINE25250
+Carbidopa-Levodopa (25-100)	2828	SINM25100
+Sirolimus	2829	SIRO0
+Sirolimus	2830	SIRO0.5
+Sirolimus	2831	SIRO0.5L
+Sirolimus	2832	SIRO1
+Sirolimus	2833	SIRO1.5L
+Sirolimus	2834	SIRO1L
+Sirolimus	2835	SIRO1SM
+Sirolimus	2836	SIRO2L
+Sirolimus	2837	SIRO3L
+Sirolimus	2838	SIRO5L
+Sirolimus	2839	SIRO6L
+Sirolimus	2840	SIRO7L
+Sirolimus	2841	SIRO8L
+JANUVIA	2842	SITA100
+Theophylline SR	2843	SLO300
+Theophylline (Slo-bid) Capsule	2844	SLOBID
+Fluocinolone Acetonide 0.01% Cream	2845	SNLR115C
+Fluocinolone Acetonide 0.01% Solution	2846	SNLR160T
+Fluocinolone Acetonide 0.025% Cream	2847	SNLR215C
+Fluocinolone Acetonide 0.025% Cream	2848	SNLR260C
+fluocinolone	2849	SNLR260O
+Sodium CITRATE 4%	2850	SODCIT$/500I
+Sodium CITRATE 4%	2851	SODCIT3SYR
+Sodium CITRATE 4%	2852	SODCITABL
+Sodium Chloride 3% Inhalation Soln	2853	SODI3N
+Sodium Chloride 23.4%	2854	SODI4I
+Sodium Bicarbonate	2855	SODI650
+Sodium Chloride Nasal	2856	SODI65S
+VESIcare	2857	SOLI5
+Soln	2858	SOLN
+Soln.	2859	SOLN2
+Soln.	2860	SOLN3
+Soln	2861	SOLN300I
+Solution	2862	SOLU
+Sorbitol	2863	SOR30L
+sorafenib	2864	SORA200
+Sotalol	2865	SOTA80
+Spironolactone	2866	SPIR100
+Spironolactone	2867	SPIR25
+Saliva Substitute	2868	SPIT
+Silver Sulfadiazine 1% Cream	2869	SSD400C
+Stanozolol (Bulk)	2870	STAN2
+Starter PN D5	2871	STARTNEOD5
+Starter PN D10	2872	STARTPND10
+Stavudine	2873	STAV30
+Stavudine	2874	STAV40
+Sterile Diluent for Flolan	2875	STER50I
+Collagenase Ointment	2876	STLTP
+Streptomycin Sulfate	2877	STRE1I
+Succinylcholine	2878	SUCC20I
+Sucralfate Enema	2879	SUCR2R
+Sulfinpyrazone	2880	SULF100
+Sulfacetamide-Prednisolone Ophth. Oint.	2881	SULF10EO
+Sulfinpyrazone	2882	SULF200
+SulfaSALAzine_	2883	SULF500
+SulfaSALAzine EC	2884	SULF500EC
+SulfADIAzine	2885	SULFA500
+Sulindac	2886	SULI150
+Sulindac	2887	SULI200
+Sumatriptan Succinate	2888	SUMA25
+Sumatriptan Succinate	2889	SUMA50
+Sumatriptan Succinate	2890	SUMA6V
+*NF* Sunitinib	2891	SUNI25
+*NF* Sunitinib	2892	SUNI50
+Sunol-cH36 Study Drug (*IND*)	2893	SUNOLIND
+SW	2894	SW100
+Sterile Water	2895	SW1000
+Sterile Water For Irrigation	2896	SW1000BTL
+SW	2897	SW100MLG
+Sterile Water	2898	SW10I
+Sterile Water	2899	SW3000
+Sterile Water	2900	SW3000I
+Syringe (Sterile Water)	2901	SW30SYR
+SW	2902	SW50
+Sterile Water	2903	SW50BASE
+Syringe (Sterile Water)	2904	SW5SYR
+Syringe (Sterile Water)	2905	SWSYR20
+Symbicort	2906	SYMB80/4.5IH
+Quinupristin/Dalfopristin	2907	SYNE500I
+Syringe	2908	SYR
+Syringe	2909	SYR1ML
+Syringe	2910	SYR60ML
+Syringe	2911	SYRG1
+Syringe	2912	SYRINGE5
+Syringe (NS)	2913	SYRINGE60NS
+Syringe	2914	SYRINGEIND
+Syringe (0.9% Sodium Chloride)	2915	SYRINGENS
+Syringe (PD)	2916	SYRINGEPD
+Syringe (SW)	2917	SYRINGESW
+Syringe (Intraperitoneal)	2918	SYRIP10I
+Syringe (Intrathecal)	2919	SYRIT
+Syringe (Intrathecal)	2920	SYRIT10
+Syringe (Intraventricular)	2921	SYRIVT
+Syringe (NS)	2922	SYRNS5ML
+Syringe (Intrapleural)	2923	SYRPL
+Acetaminophen w/Codeine	2924	T3
+Acetaminophen w/Codeine Elixir	2925	T3/12.5ML
+Tacrolimus	2926	TACR0
+Tacrolimus	2927	TACR0.03O
+Tacrolimus	2928	TACR0.1O
+Tacrolimus	2929	TACR0.5
+Tacrolimus	2930	TACR0.5BN
+Tacrolimus	2931	TACR0.5SM
+Tacrolimus	2932	TACR1
+Tacrolimus	2933	TACR1BN
+Tacrolimus	2934	TACR1IND
+Tacrolimus	2935	TACR1SM
+Tacrolimus	2936	TACR5
+Tacrolimus	2937	TACR5BN
+Tacrolimus	2938	TACR5SM
+Tacrolimus	2939	TACRSUSP
+Tacrolimus	2940	TACRSUSPBN
+Talc (Sterile)	2941	TALC
+Talc (Sterile)	2942	TALC5
+Tamoxifen Citrate	2943	TAMO10
+Tamsulosin	2944	TAMS.4
+DOCEtaxel (TaxoTERE)	2945	TAXO160I
+PACLItaxel (TaxOL)	2946	TAXO30I
+DOCEtaxel (TaxoTERE)	2947	TAXO80I
+Tobramycin-Dexamethasone Ophth Susp	2948	TBDX2.5O
+Tobramycin-Dexamethasone Ophth Oint	2949	TBDX3.5O
+TB Syringe	2950	TBSYR
+Tetanus-DiphTox-Acellular Pertuss (Adacel)	2951	TDAP0.5I
+Tetanus-Diphtheria Toxoids-Td	2952	TDT5I
+Zelnorm	2953	TEGA2
+Zelnorm	2954	TEGA6
+Carbamazepine	2955	TEGR200
+Telavancin *NF*	2956	TELA250I
+Micardis HCT	2957	TELM20
+Temazepam	2958	TEMA15
+*NF* Temozolomide	2959	TEMO100
+*NF* Temozolomide	2960	TEMO20
+*NF* Temozolomide	2961	TEMO5
+Temsirolimus	2962	TEMS25I
+Tenecteplase	2963	TENEIND
+Tenofovir Disoproxil Fum.	2964	TENO300
+Tenofovir Disoproxil (Viread)	2965	TENO300L
+Terazosin	2966	TERAZ1
+Terazosin HCl	2967	TERAZ2
+Terazosin	2968	TERAZ5
+Terbinafine 1% Cream	2969	TERB1C
+Terbutaline Sulfate	2970	TERB1I
+Terbinafine 1% Spray	2971	TERB1SP
+Terbutaline Sulfate	2972	TERB25
+Terbutaline Sulfate	2973	TERB5
+Terconazole 0.4% Vag. Cream	2974	TERC.4C
+Terconazole 80mg Vag. Supp	2975	TERC80V
+Forteo	2976	TERI750I
+Terlipressin Study Drug (*IND*)	2977	TERLIND
+AndroGel	2978	TEST2.5
+Testosterone 2.5mg Patch	2979	TEST25P
+Testosterone 4 mg Patch	2980	TEST4P
+AndroGel	2981	TEST5G
+Testosterone 5mg Patch	2982	TEST5P
+Tetanus Immune Globulin	2983	TETA250I
+Tetracycline HCl	2984	TETR250
+Tetracaine HCl	2985	TETRA5ES
+Thalidomide	2986	THAL50
+Tromethamine	2987	THAM500I
+Soln	2988	THAMBASE
+Theophylline SR	2989	THEO100
+Theophylline (Oral Solution)	2990	THEO100LQ
+Theophylline SR	2991	THEO200
+Theophylline SR	2992	THEO300
+Theophylline ER (Uniphyl)	2993	THEO400TR
+Theophylline	2994	THEO80L
+Theophylline (Oral Solution)	2995	THEO80LQ
+Theophylline SR	2996	THEOP125
+Thiamine	2997	THIA100
+Thiamine	2998	THIA100I
+Thiamine Study Drug (*IND*)	2999	THIA200IND
+Thiamine	3000	THIA50
+Thiamine Study Drug (*IND*)	3001	THIAIND2
+Thiamine	3002	THIAM100I
+Thioridazine HCl	3003	THIO10
+Thioridazine HCl	3004	THIO100
+Thiotepa	3005	THIO15I
+Thioridazine HCl	3006	THIO25
+Thiopental Sodium	3007	THIO500K
+Thiothixene	3008	THIX1
+Thiothixene	3009	THIX10
+Thiothixene	3010	THIX2
+Thiothixene	3011	THIX5
+ChlorproMAZINE	3012	THOR10
+ChlorproMAZINE	3013	THOR100
+ChlorproMAZINE	3014	THOR25
+Chlorpromazine HCl	3015	THOR25I
+ChlorproMAZINE	3016	THOR50
+Thrombin	3017	THRO10T
+Thrombin	3018	THRO1T
+Thrombin	3019	THRO5T
+Anti-Thymocyte Globulin (Rabbit)	3020	THYM25I
+Thymoglobulin (IND)	3021	THYM25IND
+Liotrix-1	3022	THYR1
+Thyroid	3023	THYR120
+Thyroid	3024	THYR180
+Thyroid	3025	THYR30
+Thyroid	3026	THYR60
+Tiagabine HCl	3027	TIAG4
+Diltiazem Extended-Release	3028	TIAZ120
+Diltiazem	3029	TIAZ180
+Diltiazem Extended-Release	3030	TIAZ240
+Diltiazem Extended-Release	3031	TIAZ300
+Diltiazem Extended-Release	3032	TIAZ360
+Ticlopidine HCl	3033	TIC250
+ticagrelor	3034	TICA90
+Tigecycline	3035	TIGE50I
+Tilarginine or Placebo *IND*	3036	TILAIND
+*NF* Timentin	3037	TIME31I
+Timolol Maleate 0.25%	3038	TIMO25ES
+Timolol Maleate 0.5%	3039	TIMO5ES
+Tiotropium Bromide	3040	TIOT
+Tipranavir	3041	TIPR250
+Tirofiban	3042	TIRO12.5/250
+Tizanidine	3043	TIZA2
+Tizanidine HCl	3044	TIZA4
+Tobramycin Sulfate	3045	TOBR1200I
+Tobramycin Sulfate	3046	TOBR12I
+NEO*IV*Tobramycin Sulfate	3047	TOBR20I
+Tobramycin Inhalation Soln	3048	TOBR300H
+Tobramycin 0.3% Ophth Ointment	3049	TOBR3EO
+Tobramycin 0.3% Ophth Soln	3050	TOBR3ES
+Tobramycin Sulfate	3051	TOBR80I
+tobramycin	3052	TOBRFES
+Calcipotriene 0.005% Oint	3053	TOCA5O
+Tolnaftate 1% Cream	3054	TOL1C
+Tolazamide	3055	TOLA250
+Tasmar	3056	TOLC100
+Tolterodine	3057	TOLT1
+Tolterodine	3058	TOLT2
+Tolvaptan	3059	TOLV15
+Tolvaptan	3060	TOLV30
+Tolvaptan / Placebo	3061	TOLVIND
+Topiramate (Topamax)	3062	TOPI100
+Topiramate	3063	TOPI200
+Topiramate (Topamax)	3064	TOPI25
+Metoprolol XL (Toprol XL)	3065	TOPR100
+Metoprolol XL (Toprol XL)	3066	TOPR25
+Metoprolol Succinate XL	3067	TOPR50
+Torsemide	3068	TORS10
+Torsemide	3069	TORS100
+Torsemide	3070	TORS20
+Torsemide	3071	TORS20I
+Torsemide	3072	TORS5
+Sterile Water	3073	TPASW100I
+Parenteral Nutrition (TPN)	3074	TPN
+TraMADOL (Ultram)	3075	TRAM50
+Trandolapril	3076	TRAN1
+Tranylcypromine Sulfate	3077	TRAN10
+Tranexamic Acid	3078	TRAN100I
+Trandolapril	3079	TRAN2
+Trandolapril	3080	TRAN4
+Travoprost	3081	TRAV004OS
+traZODONE	3082	TRAZ100
+traZODONE HCl	3083	TRAZ50
+Triamcinolone Acetonide	3084	TRCL1T
+Triamcinolone Diacetate	3085	TRDI40I
+Tyvaso	3086	TREP1.74
+Treprostinil Sodium	3087	TREP20I
+Tretinoin 0.025% Cream	3088	TRET.025C
+Tretinoin 0.05% Cream	3089	TRET.05C
+Tretinoin	3090	TRET10C
+Tretinoin	3091	TRET40L
+Tretinoin (ATRA-All Transretinoic Acid)	3092	TRET50L
+Tretinoin (ATRA-All Transretinoic Acid)	3093	TRETL
+triaz	3094	TRI125
+Triamcinolone Acetonide 0.1% Cream	3095	TRIA.1/80C
+Triamcinolone Acetonide 0.1% Ointment	3096	TRIA0.1/80O
+Triamcinolone Acetonide 0.1% Ointment	3097	TRIA0.1O
+Triamcinolone Acetonide	3098	TRIA10I
+Orabase Dental Paste	3099	TRIA1P
+Triazolam	3100	TRIA25
+Triamterene	3101	TRIA50
+Triamcinolone Acetonide 0.025% Cream	3102	TRIAM.025/15C
+Triamcinolone Acetonide 0.025% Ointment	3103	TRIAM.025/15O
+Triamcinolone Acetonide 0.025% Cream	3104	TRIAM.025/45C
+Triamcinolone Acetonide 0.025% Ointment	3105	TRIAM.025/45O
+Triamcinolone Acetonide 0.1% Cream	3106	TRIAM30C
+Triethanolamine Solution	3107	TRIE6L
+Trifluoperazine HCl	3108	TRIF1
+Tirofiban	3109	TRIF12.5I
+Trifluridine 1% Ophth Soln.	3110	TRIF1O
+Trifluoperazine HCl	3111	TRIF2
+Trifluoperazine HCl	3112	TRIF5
+Trihexyphenidyl HCl	3113	TRIH2
+Trihexyphenidyl HCl	3114	TRIH5
+Trimethobenzamide HCl	3115	TRIM100
+Trimethobenzamide	3116	TRIM100I
+Trimethoprim Oral Soln	3117	TRIM10L
+Trimethobenzamide HCl	3118	TRIM200R
+Trimethobenzamide HCl	3119	TRIM250
+*NF* Pediatric Vitamins ADC	3120	TRIVIT
+Trizivir	3121	TRIZTAB
+Trimethoprim	3122	TRMP100
+Trimethoprim	3123	TRMP200
+Tropicamide 1 %	3124	TROP1ES
+Tropicamide 0.5%	3125	TROP5ES
+Sanctura	3126	TROS20
+Dorzolamide 2% Ophth. Soln.	3127	TRUS2S
+Emtricitabine-Tenofovir	3128	TRUV200/300
+Transplant Self Medication Program	3129	TSMP
+Tetanus Toxoid Adsorbed	3130	TTOX5I
+Tuberculin Protein	3131	TUBE5I
+Tucks	3132	TUCKSPADS
+Chlorpheniramine-Hydrocodone	3133	TUSS5L
+Ampicillin-Sulbactam	3134	UNAS1.5I
+Unasyn	3135	UNAS15I
+Ampicillin-Sulbactam	3136	UNAS3I
+Ampicillin-Sulbactam	3137	UNASNEO
+CARMOL 40	3138	UREA10L
+urea	3139	UREA20C
+urea	3140	UREA40C
+Urocit-K 10	3141	UROC10
+Ursodiol	3142	URSO250
+Ursodiol	3143	URSO300
+Divalproex (DELayed Release)	3144	VAL250L
+Valtrex	3145	VALA500
+ValGANCIclovir Suspension	3146	VALC60L
+Valdecoxib/placebo	3147	VALDIND
+ValGANCIclovir	3148	VALG450SM
+ValGANCIclov	3149	VALG50L
+Valganciclovir HCl	3150	VALGA450
+Valproic Acid	3151	VALP250
+Divalproex (DELayed Release)	3152	VALP250L
+Valsartan	3153	VALS160
+Valsartan	3154	VALS40
+Valsartan	3155	VALS80
+Vancomycin Desensitization	3156	VANC.000125L
+Vancomycin Desensitization	3157	VANC.00125L
+Vancomycin Desensitization	3158	VANC.0125L
+Vancomycin Desensitization	3159	VANC.125L
+Vancomycin Desensitization	3160	VANC1.25L
+Vancomycin Antibiotic Lock	3161	VANC12.5I
+Vancomycin Desensitization	3162	VANC12.5L
+Vancomycin Oral Liquid	3163	VANC125L
+Vancomycin	3164	VANC1F
+Vancomycin	3165	VANC1I
+Vancomycin Oral Liquid	3166	VANC250L
+Vancomycin Enema	3167	VANC250PR
+Vancomycin HCl	3168	VANC500I
+Vancomycin Oral Liquid	3169	VANC500L
+Vancomycin Enema	3170	VANC500PR
+Vancomycin	3171	VANC5I
+Vancomycin HCl	3172	VANCO10I
+Vancomycin 25mg/mL Ophth Soln	3173	VANCO25O
+Iso-Osmotic Dextrose	3174	VANCOBASE
+Vancomycin Desensitization	3175	VANCOD125L
+Vancomycin Desensitization	3176	VANCODESEN
+Vancomycin Intraventricular	3177	VANCOINV
+Vancomycin Intrathecal	3178	VANCOIT
+Vancomycin Enema	3179	VANCOPR
+Vancomycin Enema	3180	VANCPR
+Valproate Sodium	3181	VAP500I
+Varicella Zoster Immune Glob	3182	VARI125I
+Varicella Virus	3183	VARI1I
+Vasopressin	3184	VASO20I
+Naphazoline-Antazoline	3185	VASOAES
+Vecuronium Bromide	3186	VECU10I
+Vecuronium Bromide	3187	VECU20I
+Venlafaxine	3188	VENF25
+Venlafaxine	3189	VENL375
+Venlafaxine XR	3190	VENL375XR
+Venlafaxine	3191	VENL75
+Venlafaxine XR	3192	VENL75XR
+*NF* Iron Sucrose	3193	VENO100I
+Verapamil	3194	VERA120
+Verapamil SR	3195	VERA120SR
+Verapamil SR	3196	VERA180SR
+Verapamil HCl	3197	VERA240SR
+Verapamil HCl	3198	VERA40
+Verapamil	3199	VERA5I
+Verapamil HCl	3200	VERA80
+Bag	3201	VIABAG
+Vial	3202	VIAL
+300 mcg Vial	3203	VIAL300
+Hydrocodone-Acetaminophen	3204	VICODIN
+Vinblastine Sulfate	3205	VINB10I
+Vincristine Sulfate	3206	VINC2I
+VinCRIStine (Oncovin)	3207	VINC2SYR
+Viokase-8	3208	VIOK
+Vitamin A	3209	VITA150
+Vitamin A	3210	VITA25
+Vitamin A	3211	VITA50000I
+Vitamin A	3212	VITA5I
+Vitamin A	3213	VITAMA10000
+Vitamin B Complex	3214	VITB1
+Vitamin B Complex w/C	3215	VITBC1
+Vitamin D	3216	VITD1000
+Vitamin E	3217	VITE100
+Tocopheryl	3218	VITE1000
+Vitamin E	3219	VITE400
+Vitamin E	3220	VITEDR
+Volumen (Barium Sulfate 0.1% Suspension)	3221	VOLU450L
+Voriconazole	3222	VORI200
+Voriconazole	3223	VORI200I
+Voriconazole	3224	VORI50
+Varicella-Zoster Imm Globulin	3225	VZIG625I
+Warfarin	3226	WARF0
+Warfarin	3227	WARF1
+Warfarin	3228	WARF10
+Warfarin	3229	WARF2
+Warfarin	3230	WARF25
+Warfarin	3231	WARF5
+*NF* Warfarin	3232	WARF5I
+Warfarin	3233	WARF75
+zafirlukast	3234	ZAFI20
+*NF* Zaleplon	3235	ZALE10
+Ranitidine	3236	ZAN15L
+NEO*PO*Zidovudine Syrup	3237	ZDVLIQ
+Talc	3238	ZEASP
+Zanamivir (*IND*)	3239	ZENA200I
+Zidovudine	3240	ZIDO100
+Zidovudine	3241	ZIDO10L
+Zyflo	3242	ZILE600
+Zyflo	3243	ZILE600CR
+Zinc Sulfate	3244	ZINC220
+Ziprasidone Mesylate	3245	ZIPR20I
+Ziprasidone	3246	ZIPR40
+Ziprasidone Hydrochloride	3247	ZIPR60
+Azithromycin	3248	ZITHR250
+Ondansetron	3249	ZOFR4
+Zoledronic Acid	3250	ZOLE4I
+Sertraline	3251	ZOLO50
+Zonisamide	3252	ZON100
+Zonisamide	3253	ZONI100
+Zonisamide	3254	ZONI10L
+Zonisamide	3255	ZONI25
+< IND> Zoniporide Study Drug	3256	ZONIIND
+Piperacillin-Tazobactam	3257	ZOSY2.25I
+Piperacillin-Tazobactam	3258	ZOSY2000I
+Piperacillin-Tazobactam Na	3259	ZOSY3I
+Piperacillin-Tazobactam	3260	ZOSY4.5I
+Piperacillin-Tazobactam Na	3261	ZOSY4FPB
+Zosyn Desensitization	3262	ZOSYNDESEN
+Alum Ammonium	3263	alum454
+*NF* Caspofungin Acetate	3264	canc50i
+*NF* Caspofungin Acetate	3265	canc70i
+Maalox	3266	
+Neo*IV*MetronidAZOLE	3267	nmetroni
